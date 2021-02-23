@@ -1,6 +1,8 @@
 import logo from './logo.svg';
 import './App.css';
+
 import IbtApi from './IbtApi'
+import IbtChart from './IbtChart'
 
 function App() {
   return (
