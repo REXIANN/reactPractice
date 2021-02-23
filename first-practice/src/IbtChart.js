@@ -1,7 +1,7 @@
+import React from 'react'
 class IbtChart extends React.Component() {
   constructor(props){
     super(props)
-    const {userLanguage, coinId } = this.props
 
     window.itb_widget = window.itb_widget || {
       init: t => {
@@ -16,9 +16,9 @@ class IbtChart extends React.Component() {
     };
     window.itb_widget.init({
       apiKey: "qF3NHH8aqG4ePiLGNqbjF1Wu3xVq2eF010Mwdtx3",
-      language: userLanguage,
+      language: "kr",
       options: {
-        tokenId: coinId,
+        tokenId: "BTC",
         loader: true,
         tokenSummary: {
           showTotalExchangesInflows: true,
@@ -27,6 +27,6 @@ class IbtChart extends React.Component() {
       }
     })
   }
-
-
 }
+
+export default IbtChart

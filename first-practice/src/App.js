@@ -2,7 +2,7 @@ import logo from './logo.svg';
 import './App.css';
 
 import IbtApi from './IbtApi'
-import IbtChart from './IbtChart'
+import IbtCoinList from './IbtCoinList'
 
 function App() {
   return (
@@ -10,7 +10,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         
-        <IbtApi/>
+        <IbtApi />
+        <IbtCoinList />
       </header>
     </div>
   );

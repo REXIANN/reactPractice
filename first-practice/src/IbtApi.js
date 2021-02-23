@@ -1,5 +1,4 @@
 import React from 'react'
-
 class IbtApi extends React.Component {
   constructor(props) {
     super(props)
@@ -36,7 +35,8 @@ class IbtApi extends React.Component {
 
   render() {
     const { content } = this.state
-
+    
+  
     return (
       <div>
         <button onClick={this.handleAPI}>정보 가져오기</button>
