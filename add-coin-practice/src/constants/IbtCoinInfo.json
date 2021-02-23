@@ -1,0 +1,5528 @@
+[
+  {
+    "name": "Bitcoin",
+    "symbol": "BTC",
+    "id": 1,
+    "guid": "3fe01468-69a7-4cb2-8606-afbd8e84414d"
+  },
+  {
+    "name": "Ethereum",
+    "symbol": "ETH",
+    "id": 2,
+    "guid": "43256ca8-4b86-4c81-8023-ea5572b092fb"
+  },
+  {
+    "name": "Tether",
+    "symbol": "USDT",
+    "id": 3,
+    "guid": "1e3a8ea7-0d4f-4060-85a4-11b22f2d91b5"
+  },
+  {
+    "name": "Cardano",
+    "symbol": "ADA",
+    "id": 7,
+    "guid": "9f0b359c-034c-4a73-8445-5442c6c8057a"
+  },
+  {
+    "name": "Litecoin",
+    "symbol": "LTC",
+    "id": 5,
+    "guid": "7ae08d54-7fd1-433b-8893-fc0349669fa4"
+  },
+  {
+    "name": "Chainlink",
+    "symbol": "LINK",
+    "id": 8,
+    "guid": "4da67161-a9d5-4a3d-81a7-bdd8416fab4b"
+  },
+  {
+    "name": "Bitcoin Cash",
+    "symbol": "BCH",
+    "id": 4,
+    "guid": "4db3b0d4-637e-489b-81da-dad637a803c1"
+  },
+  {
+    "name": "Uniswap",
+    "symbol": "UNI",
+    "id": 955,
+    "guid": "2b3760b1-dea0-446b-8f98-e9ab664ab050",
+    "tokenType": "defi",
+    "tokenCategory": "dexes"
+  },
+  {
+    "name": "USD Coin",
+    "symbol": "USDC",
+    "id": 13,
+    "guid": "28df5f1c-b9ed-4034-87d3-a39e4ef0a262"
+  },
+  {
+    "name": "Dogecoin",
+    "symbol": "DOGE",
+    "id": 16,
+    "guid": "84c56c23-284b-4de7-856d-7717863f4ec0"
+  },
+  {
+    "name": "Wrapped Bitcoin",
+    "symbol": "WBTC",
+    "id": 253,
+    "guid": "646db3e0-68b5-4d0b-83f9-155bd637501f",
+    "tokenType": "defi",
+    "tokenCategory": "bitcoin on ethereum"
+  },
+  {
+    "name": "Crypto.Com Chain Token (Cro)",
+    "symbol": "CRO",
+    "id": 15,
+    "guid": "c13ecc1f-c51c-42d7-82f9-da80c117f6f2"
+  },
+  {
+    "name": "Aave",
+    "symbol": "AAVE",
+    "id": 989,
+    "guid": "db88dcd2-9af3-4b24-869d-6b79fe8be2c3",
+    "tokenType": "defi",
+    "tokenCategory": "lending"
+  },
+  {
+    "name": "Huobi Token",
+    "symbol": "HT",
+    "id": 9,
+    "guid": "f976fee6-e37f-401a-8a16-f46aa70709e7"
+  },
+  {
+    "name": "Bitcoin SV",
+    "symbol": "BSV",
+    "id": 6,
+    "guid": "2255925d-9f44-4b9c-852f-ff37865efffa"
+  },
+  {
+    "name": "FTX Token",
+    "symbol": "FTXT",
+    "id": 872,
+    "guid": "048e6ce4-b515-4f8f-8174-26472b806a4f"
+  },
+  {
+    "name": "Dash",
+    "symbol": "DASH",
+    "id": 10,
+    "guid": "6d3eda20-23f6-4d8a-855c-e7d08312fe6c"
+  },
+  {
+    "name": "The Graph",
+    "symbol": "GRT",
+    "id": 1028,
+    "guid": "11f114dd-8485-4f5a-8ac3-04c1901591f4"
+  },
+  {
+    "name": "Synthetix Network Token",
+    "symbol": "SNX",
+    "id": 38,
+    "guid": "18842234-f6ff-4bf0-8205-9ce69ab0e074",
+    "tokenType": "defi",
+    "tokenCategory": "derivatives"
+  },
+  {
+    "name": "Dai",
+    "symbol": "DAI",
+    "id": 928,
+    "guid": "257e0b96-1068-4940-8578-59b50c34538e",
+    "tokenType": "defi",
+    "tokenCategory": "stableassets"
+  },
+  {
+    "name": "Maker",
+    "symbol": "MKR",
+    "id": 14,
+    "guid": "2ae0ed73-f792-44bb-8e51-5d7ca16a6dbc",
+    "tokenType": "defi",
+    "tokenCategory": "lending"
+  },
+  {
+    "name": "Binance USD",
+    "symbol": "BUSD",
+    "id": 899,
+    "guid": "ba712129-a1a2-47c6-8f5b-c53b78530e0e"
+  },
+  {
+    "name": "SushiSwap",
+    "symbol": "SUSHI",
+    "id": 944,
+    "guid": "ff9d13fc-5530-4f9b-82ac-5df9881e18a4",
+    "tokenType": "defi",
+    "tokenCategory": "dexes"
+  },
+  {
+    "name": "Compound",
+    "symbol": "COMP",
+    "id": 915,
+    "guid": "222ec839-9da0-49bb-8a51-a2919988c1db",
+    "tokenType": "defi",
+    "tokenCategory": "lending"
+  },
+  {
+    "name": "UNUS SED LEO",
+    "symbol": "LEO",
+    "id": 868,
+    "guid": "72a4f2fc-46fc-4bac-8383-540e28572c47"
+  },
+  {
+    "name": "ERC20",
+    "symbol": "ERC20",
+    "id": 194,
+    "guid": "26d5bb29-f113-4c1f-8998-c7c9fd4a7091"
+  },
+  {
+    "name": "Zcash",
+    "symbol": "ZEC",
+    "id": 17,
+    "guid": "1c816154-aae6-4158-88fc-6c950386edf9"
+  },
+  {
+    "name": "Ethereum Classic",
+    "symbol": "ETC",
+    "id": 12,
+    "guid": "5b3b628b-053d-47c9-8a6d-481af1faf57d"
+  },
+  {
+    "name": "Yearn.Finance",
+    "symbol": "YFI",
+    "id": 926,
+    "guid": "42e722aa-3609-4869-8630-815e19c9be7b",
+    "tokenType": "defi",
+    "tokenCategory": "assetmgmt"
+  },
+  {
+    "name": "Voyager",
+    "symbol": "VGX",
+    "id": 912,
+    "guid": "af6ae318-b3fe-48fa-8ffd-ac99c8f90f10"
+  },
+  {
+    "name": "Ethos",
+    "symbol": "ETHOS",
+    "id": 206,
+    "guid": "ba184cdd-2ee6-43d2-8d30-82ab0fb3cb2b"
+  },
+  {
+    "name": "Nexo",
+    "symbol": "NEXO",
+    "id": 44,
+    "guid": "0f6c86f0-519b-4738-894b-28128e9c6dda"
+  },
+  {
+    "name": "Ren",
+    "symbol": "REN",
+    "id": 898,
+    "guid": "d0e0dd16-2748-4dbe-8bc1-8e28c405d773",
+    "tokenType": "defi",
+    "tokenCategory": "stableassets"
+  },
+  {
+    "name": "Celsius",
+    "symbol": "CEL",
+    "id": 751,
+    "guid": "509b6650-8622-438b-85b4-4a1f9391babb"
+  },
+  {
+    "name": "UMA",
+    "symbol": "UMA",
+    "id": 942,
+    "guid": "08fa45a8-001d-4f8f-895b-301f2430198e",
+    "tokenType": "defi",
+    "tokenCategory": "derivatives"
+  },
+  {
+    "name": "0x",
+    "symbol": "ZRX",
+    "id": 26,
+    "guid": "3346f82c-c50e-46d6-88a1-d80b09f8b5bf",
+    "tokenType": "defi",
+    "tokenCategory": "dexes"
+  },
+  {
+    "name": "OKB",
+    "symbol": "OKB",
+    "id": 56,
+    "guid": "9f80f2a1-88b9-4df5-8036-f4ea622ab38d"
+  },
+  {
+    "name": "Fantom",
+    "symbol": "FTM",
+    "id": 105,
+    "guid": "d6351316-7119-4689-8cdb-8638d0e0b2e6"
+  },
+  {
+    "name": "Revain",
+    "symbol": "R",
+    "id": 90,
+    "guid": "d38ad8d3-47b7-4383-8ec1-0151ff6a7b5c"
+  },
+  {
+    "name": "renBTC",
+    "symbol": "RENBTC",
+    "id": 932,
+    "guid": "1a5cd1b8-d6dc-4296-8168-99b58f8dc4f4",
+    "tokenType": "defi",
+    "tokenCategory": "bitcoin on ethereum"
+  },
+  {
+    "name": "Ontology",
+    "symbol": "ONT",
+    "id": 985,
+    "guid": "e4c9fb59-44b0-4237-b0df-252c881a1207"
+  },
+  {
+    "name": "ThoreCoin",
+    "symbol": "THR",
+    "id": 37,
+    "guid": "2f6d633a-6264-4254-8b59-e2af8aedb62f"
+  },
+  {
+    "name": "SwissBorg",
+    "symbol": "CHSB",
+    "id": 236,
+    "guid": "6dd8eb20-aef3-4bdf-881e-7a2786c59d5d"
+  },
+  {
+    "name": "Bancor",
+    "symbol": "BNT",
+    "id": 95,
+    "guid": "64e48379-0099-4dbb-8220-8abfa3f18fb5",
+    "tokenType": "defi",
+    "tokenCategory": "dexes"
+  },
+  {
+    "name": "Loopring",
+    "symbol": "LRC",
+    "id": 68,
+    "guid": "8f417a55-6086-4768-85ca-27102583d653",
+    "tokenType": "defi",
+    "tokenCategory": "dexes"
+  },
+  {
+    "name": "Basic Attention Token",
+    "symbol": "BAT",
+    "id": 20,
+    "guid": "a941bcf5-e97d-4658-85f1-91027f0dccbb"
+  },
+  {
+    "name": "OmiseGO",
+    "symbol": "OMG",
+    "id": 27,
+    "guid": "a5474b12-4bf8-4723-8235-16434d2aeba1"
+  },
+  {
+    "name": "Matic Network",
+    "symbol": "MATIC",
+    "id": 89,
+    "guid": "377f0e8b-3572-4b7f-8d0b-7ec3505ca751"
+  },
+  {
+    "name": "GoldMint",
+    "symbol": "MNTP",
+    "id": 474,
+    "guid": "2b927b09-8749-4a68-8138-ef3977b77c6c"
+  },
+  {
+    "name": "Aave [Old] ",
+    "symbol": "LEND",
+    "id": 214,
+    "guid": "83766c4e-0b4f-40d8-862c-54f234dae0f8",
+    "tokenType": "defi",
+    "tokenCategory": "lending"
+  },
+  {
+    "name": "Paxos Standard Token",
+    "symbol": "PAX",
+    "id": 19,
+    "guid": "d13dc114-9a6d-4a86-875f-3151ac4573cd"
+  },
+  {
+    "name": "1Inch",
+    "symbol": "1INCH",
+    "id": 1027,
+    "guid": "a52ee8be-b132-439e-855f-22997de94020",
+    "tokenType": "defi",
+    "tokenCategory": "dexes"
+  },
+  {
+    "name": "Curve DAO Token",
+    "symbol": "CRV",
+    "id": 937,
+    "guid": "89f00180-9eb8-41aa-8dce-069573cb5582",
+    "tokenType": "defi",
+    "tokenCategory": "dexes"
+  },
+  {
+    "name": "KuCoin Shares",
+    "symbol": "KCS",
+    "id": 28,
+    "guid": "1b3514fe-a2d1-4792-8426-979fa5f4f9bb"
+  },
+  {
+    "name": "Quant",
+    "symbol": "QNT",
+    "id": 917,
+    "guid": "7ab88be0-6350-49c7-8674-88a1bae0ece9"
+  },
+  {
+    "name": "Ocean Protocol",
+    "symbol": "OCEAN",
+    "id": 887,
+    "guid": "aac6859c-680f-4880-82bf-588a6bdd94a4"
+  },
+  {
+    "name": "Enjin Coin",
+    "symbol": "ENJ",
+    "id": 50,
+    "guid": "b1816bdd-e7e8-4488-8418-ed973e4179fa"
+  },
+  {
+    "name": "HedgeTrade",
+    "symbol": "HEDG",
+    "id": 869,
+    "guid": "05eb295e-4e29-40f0-8ff4-9ba84d0ec898"
+  },
+  {
+    "name": "Nexus Mutual",
+    "symbol": "NXM",
+    "id": 940,
+    "guid": "d29caf26-8905-4761-8261-e589cee256b2",
+    "tokenType": "defi",
+    "tokenCategory": "insurance"
+  },
+  {
+    "name": "Golem",
+    "symbol": "GNT",
+    "id": 51,
+    "guid": "c403fdd6-ec6a-43c5-8121-675e0b90db0b"
+  },
+  {
+    "name": "Kyber Network",
+    "symbol": "KNC",
+    "id": 65,
+    "guid": "8713f2f1-2546-49bb-8644-89f80f0a6855",
+    "tokenType": "defi",
+    "tokenCategory": "dexes"
+  },
+  {
+    "name": "Clipper Coin",
+    "symbol": "CCCX",
+    "id": 45,
+    "guid": "9fe47dad-52af-44a5-871e-fcd8b9753d72"
+  },
+  {
+    "name": "Augur",
+    "symbol": "REP",
+    "id": 29,
+    "guid": "75078832-a0b2-424f-8211-5ae15cdd5b03",
+    "tokenType": "defi",
+    "tokenCategory": "derivatives"
+  },
+  {
+    "name": "Bitmax Token",
+    "symbol": "BTMX",
+    "id": 732,
+    "guid": "ce79993e-e906-4bb2-8a5a-3f8c8fd0fb3c"
+  },
+  {
+    "name": "Status",
+    "symbol": "SNT",
+    "id": 54,
+    "guid": "d41865e3-5fc1-4f0a-8b90-9b5efb25240e"
+  },
+  {
+    "name": "TrueUSD",
+    "symbol": "TUSD",
+    "id": 23,
+    "guid": "501ff90d-0295-4715-8e58-bf7ae826321b"
+  },
+  {
+    "name": "Band Protocol",
+    "symbol": "BAND",
+    "id": 901,
+    "guid": "9b1d4c76-623d-4264-863d-dd9aec6a80d8"
+  },
+  {
+    "name": "Bitpanda Ecosystem Token",
+    "symbol": "BEST",
+    "id": 1025,
+    "guid": "bd33f5ae-a577-43c3-8a0c-ead750c176b8"
+  },
+  {
+    "name": "Ampleforth",
+    "symbol": "AMPL",
+    "id": 921,
+    "guid": "431a7b60-05bd-49bc-8d58-0873de25a803",
+    "tokenType": "defi",
+    "tokenCategory": "rebasing"
+  },
+  {
+    "name": "Balancer",
+    "symbol": "BAL",
+    "id": 916,
+    "guid": "efa26a45-5ba2-4005-898f-6f0c5000ef21",
+    "tokenType": "defi",
+    "tokenCategory": "dexes"
+  },
+  {
+    "name": "botXcoin",
+    "symbol": "BOTX",
+    "id": 881,
+    "guid": "7a0f887e-14a8-4f7b-8e90-463df2598de7"
+  },
+  {
+    "name": "Civic",
+    "symbol": "CVC",
+    "id": 72,
+    "guid": "fde9dff0-4ae6-47a1-820b-eb81cab5b770"
+  },
+  {
+    "name": "Huobi BTC",
+    "symbol": "HBTC",
+    "id": 1030,
+    "guid": "0f6368d0-95b7-4729-8fa3-740dfe662601",
+    "tokenType": "defi",
+    "tokenCategory": "Bitcoin on Ethereum"
+  },
+  {
+    "name": "AMP",
+    "symbol": "AMP",
+    "id": 1020,
+    "guid": "8bdae7d9-b8ff-41a1-8229-2dd07f047845",
+    "tokenType": "defi",
+    "tokenCategory": "Other"
+  },
+  {
+    "name": "Chiliz",
+    "symbol": "CHZ",
+    "id": 883,
+    "guid": "b6fc40cb-4cdf-4080-8244-7c85fc1c7aed"
+  },
+  {
+    "name": "IoTeX",
+    "symbol": "IOTX",
+    "id": 110,
+    "guid": "0777ccf5-04fb-4cdc-8ac5-702aea021deb"
+  },
+  {
+    "name": "Harmony",
+    "symbol": "ONE",
+    "id": 885,
+    "guid": "6b7a62c1-9580-437a-87dc-fb8a12cbf978"
+  },
+  {
+    "name": "Swipe",
+    "symbol": "SXP",
+    "id": 873,
+    "guid": "58cec972-3846-4e11-8a0b-4292b7bc9f28",
+    "tokenType": "defi",
+    "tokenCategory": "payments"
+  },
+  {
+    "name": "Gnosis",
+    "symbol": "GNO",
+    "id": 119,
+    "guid": "e16687e0-fcc3-41fd-8f84-a5b1acc9a2c2",
+    "tokenType": "defi",
+    "tokenCategory": "dexes"
+  },
+  {
+    "name": "Orchid",
+    "symbol": "OXT",
+    "id": 988,
+    "guid": "db4bf614-a82b-4b99-864d-3248c9d77dfc"
+  },
+  {
+    "name": "Unibright",
+    "symbol": "UBT",
+    "id": 371,
+    "guid": "0e781154-81a4-46ae-82ef-981533d42ae6"
+  },
+  {
+    "name": "Aragon",
+    "symbol": "ANT",
+    "id": 103,
+    "guid": "0954367a-98f6-4504-848f-c4f0cf7f2384"
+  },
+  {
+    "name": "Ankr Network ",
+    "symbol": "ANKR",
+    "id": 161,
+    "guid": "b27ddeab-7e28-45c3-8084-9e52c0523e8e"
+  },
+  {
+    "name": "FunFair",
+    "symbol": "FUN",
+    "id": 84,
+    "guid": "09230494-abcd-456f-80c6-ec8b4067a54c"
+  },
+  {
+    "name": "Fetch",
+    "symbol": "FET",
+    "id": 92,
+    "guid": "5a8efd13-8336-4c89-87b8-5948cbaa086a"
+  },
+  {
+    "name": "Numeraire",
+    "symbol": "NMR",
+    "id": 192,
+    "guid": "5c202be5-5839-4dbd-80e0-eedd3ab29795",
+    "tokenType": "defi",
+    "tokenCategory": "other"
+  },
+  {
+    "name": "Saffron Finance",
+    "symbol": "SFI",
+    "id": 1012,
+    "guid": "3f4b122b-ba3a-4b53-8d2e-2c37d5074c48",
+    "tokenType": "defi",
+    "tokenCategory": "assetmgmt"
+  },
+  {
+    "name": "Sandbox",
+    "symbol": "SAND",
+    "id": 953,
+    "guid": "3f7fc924-e685-40ad-8a92-d66e2154df83"
+  },
+  {
+    "name": "Orion Protocol",
+    "symbol": "ORN",
+    "id": 967,
+    "guid": "116b0bf3-03cd-461d-8777-bb0d67f8dbc5",
+    "tokenType": "defi",
+    "tokenCategory": "dexes"
+  },
+  {
+    "name": "Keep Network",
+    "symbol": "KEEP",
+    "id": 984,
+    "guid": "c2aa9a5f-3dc7-48cd-8c7e-e03da6be84ad",
+    "tokenType": "defi",
+    "tokenCategory": "other"
+  },
+  {
+    "name": "Storj",
+    "symbol": "STORJ",
+    "id": 113,
+    "guid": "cf6bb81a-d11b-4fd4-8cfc-69ef28103478"
+  },
+  {
+    "name": "UTRUST",
+    "symbol": "UTK",
+    "id": 162,
+    "guid": "296a00ee-f9db-4f27-8aec-b54bcc068824"
+  },
+  {
+    "name": "Polymath",
+    "symbol": "POLY",
+    "id": 145,
+    "guid": "842f5b27-05f1-45da-8bc9-d4d6bacb1ef9"
+  },
+  {
+    "name": "Telcoin",
+    "symbol": "TEL",
+    "id": 126,
+    "guid": "0a616d75-5a7e-448f-8068-8c23e7a652c3"
+  },
+  {
+    "name": "Dent",
+    "symbol": "DENT",
+    "id": 117,
+    "guid": "ddb2eb93-725f-435f-88ba-0d9158fab9a7"
+  },
+  {
+    "name": "TomoChain",
+    "symbol": "TOMO",
+    "id": 96,
+    "guid": "88dc8d54-729e-479a-8cf3-1f2f5abcfdf3"
+  },
+  {
+    "name": "Mainframe",
+    "symbol": "MFT",
+    "id": 183,
+    "guid": "1d8a81f6-d727-459b-8a1a-be002915eed5"
+  },
+  {
+    "name": "district0x ",
+    "symbol": "DNT",
+    "id": 255,
+    "guid": "cbf328bd-7d02-4a68-8149-4186a3e4cf0f"
+  },
+  {
+    "name": "Wanchain",
+    "symbol": "WAN",
+    "id": 97,
+    "guid": "0be602fb-40ef-40c1-8c46-28ad6cb3d943"
+  },
+  {
+    "name": "Bytom",
+    "symbol": "BTM",
+    "id": 41,
+    "guid": "a0c87196-2576-4f3f-8e78-423014470954"
+  },
+  {
+    "name": "Canyacoin",
+    "symbol": "CAN",
+    "id": 383,
+    "guid": "40de6aae-5ca8-4943-814b-689a57eecd9f"
+  },
+  {
+    "name": "Origintrail",
+    "symbol": "TRAC",
+    "id": 300,
+    "guid": "841e269e-3c23-4631-8c7d-ba0dd7056983"
+  },
+  {
+    "name": "xDAI Stake",
+    "symbol": "STAKE",
+    "id": 960,
+    "guid": "d20ad640-94d9-4e9b-8504-ec84c47c20e4",
+    "tokenType": "defi",
+    "tokenCategory": "payments"
+  },
+  {
+    "name": "aelf",
+    "symbol": "ELF",
+    "id": 57,
+    "guid": "b862c7f2-f738-42a7-81cb-bbda3eb20474"
+  },
+  {
+    "name": "SingularityNET",
+    "symbol": "AGI",
+    "id": 143,
+    "guid": "785f7ffb-0db8-42f6-8e65-596dcdc08547"
+  },
+  {
+    "name": "iExec RLC",
+    "symbol": "RLC",
+    "id": 107,
+    "guid": "4dd12a59-8b90-450f-8b21-7367c09295ee"
+  },
+  {
+    "name": "Harvest Finance",
+    "symbol": "FARM",
+    "id": 973,
+    "guid": "c0d087fe-081b-4776-8bed-b5fb5b8a0498",
+    "tokenType": "defi",
+    "tokenCategory": "assetmgmt"
+  },
+  {
+    "name": "sUSD",
+    "symbol": "SUSD",
+    "id": 312,
+    "guid": "b15c43ae-1b92-417c-8614-6ebd98c7bc39"
+  },
+  {
+    "name": "NEXT",
+    "symbol": "NET",
+    "id": 708,
+    "guid": "a7e66f85-e1fc-4a62-8c86-29e1e942b63f"
+  },
+  {
+    "name": "Hegic",
+    "symbol": "HEGIC",
+    "id": 972,
+    "guid": "937fbf50-bbea-428c-8105-1b8271a7d876",
+    "tokenType": "defi",
+    "tokenCategory": "derivatives"
+  },
+  {
+    "name": "Pax Gold",
+    "symbol": "PAXG",
+    "id": 920,
+    "guid": "5a314cb0-f0a3-4bf1-8a24-ed2b35850ee3"
+  },
+  {
+    "name": "Loom Network",
+    "symbol": "LOOM",
+    "id": 85,
+    "guid": "464f3db0-4e21-4d29-8607-72d54eb644c2"
+  },
+  {
+    "name": "Cybervein",
+    "symbol": "CVT",
+    "id": 258,
+    "guid": "17d0521e-2262-49cc-83c0-e0875392c938"
+  },
+  {
+    "name": "Electroneum",
+    "symbol": "ETN",
+    "id": 58,
+    "guid": "bf433434-36cc-4c3b-89cc-137de01b03d0"
+  },
+  {
+    "name": "Gemini Dollar",
+    "symbol": "GUSD",
+    "id": 158,
+    "guid": "9a9a1cb2-3f6b-4ba0-8812-68529183412f"
+  },
+  {
+    "name": "Cream Finance",
+    "symbol": "CREAM",
+    "id": 945,
+    "guid": "fff31161-28fb-4e54-8c6e-edc2dc22c268",
+    "tokenType": "defi",
+    "tokenCategory": "lending"
+  },
+  {
+    "name": "Power Ledger",
+    "symbol": "POWR",
+    "id": 104,
+    "guid": "1140e5cf-51d6-4b4a-852f-abc29434817a"
+  },
+  {
+    "name": "Request",
+    "symbol": "REQ",
+    "id": 171,
+    "guid": "360c4b0d-c7aa-4d8f-865b-7c7de33f5537",
+    "tokenType": "defi",
+    "tokenCategory": "payments"
+  },
+  {
+    "name": "Populous",
+    "symbol": "PPT",
+    "id": 88,
+    "guid": "d2fd8df9-4478-4919-8046-57f83a9ecdaa"
+  },
+  {
+    "name": "DFI.Money",
+    "symbol": "YFII",
+    "id": 956,
+    "guid": "6a6e7c1d-4e31-4673-8fa5-af63da8ec350",
+    "tokenType": "defi",
+    "tokenCategory": "assetmgmt"
+  },
+  {
+    "name": "Celer Network",
+    "symbol": "CELR",
+    "id": 129,
+    "guid": "bd572137-6040-42a1-81bb-a7fb1c65f19b"
+  },
+  {
+    "name": "Rari Governance Token",
+    "symbol": "RGT",
+    "id": 997,
+    "guid": "a03e703d-c149-4620-88b4-d0411990559c",
+    "tokenType": "defi",
+    "tokenCategory": "assetmgmt"
+  },
+  {
+    "name": "Akropolis",
+    "symbol": "AKRO",
+    "id": 999,
+    "guid": "8643df46-36ef-4bcd-84c6-f908fb336b80",
+    "tokenType": "defi",
+    "tokenCategory": "assetmgmt"
+  },
+  {
+    "name": "QuarkChain",
+    "symbol": "QKC",
+    "id": 136,
+    "guid": "9050ee1f-3deb-4e1a-827c-4b6171229aad"
+  },
+  {
+    "name": "Morpheus.Network",
+    "symbol": "MRPH",
+    "id": 230,
+    "guid": "d99185de-99e4-417b-819c-9cdc4634dbe4"
+  },
+  {
+    "name": "Wrapped NXM",
+    "symbol": "WNXM",
+    "id": 941,
+    "guid": "3cb82dff-d353-4eaf-862c-aa119d638f12",
+    "tokenType": "defi",
+    "tokenCategory": "insurance"
+  },
+  {
+    "name": "StormX",
+    "symbol": "STMX",
+    "id": 954,
+    "guid": "56138923-15aa-45cb-82eb-dfda8f861c05"
+  },
+  {
+    "name": "Frontier",
+    "symbol": "FRONT",
+    "id": 995,
+    "guid": "a425998d-ba48-4ac2-8192-504d50e48dbf",
+    "tokenType": "defi",
+    "tokenCategory": "other"
+  },
+  {
+    "name": "LTO Network",
+    "symbol": "LTO",
+    "id": 260,
+    "guid": "ef744936-d333-461e-8237-33fdbab5721a"
+  },
+  {
+    "name": "Eidoo",
+    "symbol": "EDO",
+    "id": 94,
+    "guid": "13523cfa-0002-4252-8f26-f40b60044e18"
+  },
+  {
+    "name": "Invictus Hyperion Fund",
+    "symbol": "IHF",
+    "id": 218,
+    "guid": "c162fb9a-b0fd-49ce-8e2b-5907e07cfdf2"
+  },
+  {
+    "name": "Nest Protocol",
+    "symbol": "NEST",
+    "id": 959,
+    "guid": "2866c8f4-27d5-4c35-8208-ee9e061884f2",
+    "tokenType": "defi",
+    "tokenCategory": "wallet"
+  },
+  {
+    "name": "Livepeer",
+    "symbol": "LPT",
+    "id": 813,
+    "guid": "60553686-829a-4da9-8e2b-2c8dfe857843"
+  },
+  {
+    "name": "ShareToken",
+    "symbol": "SHR",
+    "id": 936,
+    "guid": "63b62535-ad36-4357-861e-42030cbca82c"
+  },
+  {
+    "name": "Origin Protocol",
+    "symbol": "OGN",
+    "id": 909,
+    "guid": "79c3f150-290d-4c95-8aed-1cbd0702133d"
+  },
+  {
+    "name": "EmptySet Dollar",
+    "symbol": "ESD",
+    "id": 1004,
+    "guid": "93d4a096-50b8-4153-818c-413eefd99094",
+    "tokenType": "defi",
+    "tokenCategory": "Other"
+  },
+  {
+    "name": "bZx Protocol",
+    "symbol": "BZRX",
+    "id": 925,
+    "guid": "8c0a4aea-337f-4510-8dfa-59bc3c87c8c7",
+    "tokenType": "defi",
+    "tokenCategory": "lending"
+  },
+  {
+    "name": "BarnBridge",
+    "symbol": "BOND",
+    "id": 996,
+    "guid": "996a1ef2-882d-423f-8346-087ab8458298",
+    "tokenType": "defi",
+    "tokenCategory": "other"
+  },
+  {
+    "name": "LockTrip",
+    "symbol": "LOC",
+    "id": 492,
+    "guid": "1918b58e-0654-4940-87db-c3e1476e272a"
+  },
+  {
+    "name": "AdEx",
+    "symbol": "ADX",
+    "id": 207,
+    "guid": "05f6a897-e279-4b20-8844-0ea1e0a90907"
+  },
+  {
+    "name": "Bit-Z",
+    "symbol": "BZ",
+    "id": 59,
+    "guid": "0ed125e6-0b6e-4e61-8028-b7ef78cfc65d"
+  },
+  {
+    "name": "Huobi Pool Token",
+    "symbol": "HPT",
+    "id": 801,
+    "guid": "445b204d-7249-40b1-85eb-b1836b9ecdec"
+  },
+  {
+    "name": "MVL",
+    "symbol": "MVL",
+    "id": 303,
+    "guid": "79407750-b7c1-4c52-8345-f7151c3772fa"
+  },
+  {
+    "name": "Relex",
+    "symbol": "RLX",
+    "id": 147,
+    "guid": "ea21d075-6d4c-49c6-8c92-31440c51dd59"
+  },
+  {
+    "name": "Streamr Datacoin",
+    "symbol": "DATA",
+    "id": 173,
+    "guid": "b10b0fb1-a370-488f-8e4b-b0c9f58adbc3"
+  },
+  {
+    "name": "Waltonchain",
+    "symbol": "WTC",
+    "id": 70,
+    "guid": "01172490-e89f-4a81-8196-28b931cd8980"
+  },
+  {
+    "name": "Uquid Coin",
+    "symbol": "UQC",
+    "id": 439,
+    "guid": "2e8ad91a-00b5-4e53-8396-03d454434a9c"
+  },
+  {
+    "name": "Dusk Network",
+    "symbol": "DUSK",
+    "id": 878,
+    "guid": "55e381cb-557f-4cb1-897d-14c133bfa8b3"
+  },
+  {
+    "name": "Zcoin",
+    "symbol": "XZC",
+    "id": 49,
+    "guid": "079d4ae4-7388-4930-897c-fdbef51f2b7e"
+  },
+  {
+    "name": "Orbs",
+    "symbol": "ORBS",
+    "id": 86,
+    "guid": "9341c36c-4293-483f-8b3e-2431a210309a"
+  },
+  {
+    "name": "API3",
+    "symbol": "API3",
+    "id": 1029,
+    "guid": "6b237e27-b760-4394-8176-d1e48a6bd428"
+  },
+  {
+    "name": "SOLVE",
+    "symbol": "SOLVE",
+    "id": 67,
+    "guid": "04ab4a9b-f357-4991-8d01-a762a35f9265"
+  },
+  {
+    "name": "Jetcoin",
+    "symbol": "JET",
+    "id": 237,
+    "guid": "cd6db7bd-3e5b-4738-8b07-0ca0e0698a62"
+  },
+  {
+    "name": "Metal",
+    "symbol": "MTL",
+    "id": 112,
+    "guid": "8a6f7bb4-cca6-44c7-8656-693a8451225e"
+  },
+  {
+    "name": "Keep3r V1",
+    "symbol": "KP3R",
+    "id": 1002,
+    "guid": "125f9218-d189-4fbc-8ba2-e2d33c628303",
+    "tokenType": "defi",
+    "tokenCategory": "Other"
+  },
+  {
+    "name": "PowerPool Concentrated Voting Power",
+    "symbol": "CVP",
+    "id": 964,
+    "guid": "35a40be8-dd56-4f07-8f4a-d9c18f13f114",
+    "tokenType": "defi",
+    "tokenCategory": "other"
+  },
+  {
+    "name": "Melon",
+    "symbol": "MLN",
+    "id": 279,
+    "guid": "a11eacd2-2a4c-46bc-8c26-51ed900330e2",
+    "tokenType": "defi",
+    "tokenCategory": "assetmgmt"
+  },
+  {
+    "name": "Mindol",
+    "symbol": "MIN",
+    "id": 871,
+    "guid": "6d15fda9-c70c-4fc1-895a-9f669be4eaea"
+  },
+  {
+    "name": "Bosagora",
+    "symbol": "BOA",
+    "id": 888,
+    "guid": "05363b6b-7452-4e6c-8cb9-7746c2a5cfdf"
+  },
+  {
+    "name": "NULS",
+    "symbol": "NULS",
+    "id": 77,
+    "guid": "c98b766a-001b-4aa0-8850-9ba45175b0ac"
+  },
+  {
+    "name": "STASIS EURS",
+    "symbol": "EURS",
+    "id": 60,
+    "guid": "ee84a092-f4a4-4788-83cd-dd023755cf1b"
+  },
+  {
+    "name": "APY.Finance",
+    "symbol": "APY",
+    "id": 1003,
+    "guid": "855e2046-b3ca-4bdf-8bf1-da0a38b45913",
+    "tokenType": "defi",
+    "tokenCategory": "assetmgmt"
+  },
+  {
+    "name": "Centrality",
+    "symbol": "CENNZ",
+    "id": 36,
+    "guid": "546d3316-4fa3-40b3-8013-fe7531dd1414"
+  },
+  {
+    "name": "Bella Protocol",
+    "symbol": "BEL",
+    "id": 1022,
+    "guid": "06b8e8b9-1d07-4c97-8449-e96d071e22a7",
+    "tokenType": "defi",
+    "tokenCategory": "Asset Management"
+  },
+  {
+    "name": "Cryptonex",
+    "symbol": "CNX",
+    "id": 361,
+    "guid": "69b22a03-a8d0-44a3-8f85-1d2dacc1e9b8"
+  },
+  {
+    "name": "Cred",
+    "symbol": "LBA",
+    "id": 204,
+    "guid": "89e7fc29-dca1-42a7-8f18-02a49bc44c37"
+  },
+  {
+    "name": "Cartesi",
+    "symbol": "CTSI",
+    "id": 903,
+    "guid": "9c85dd77-38bd-4461-8794-b0c206b90e5d"
+  },
+  {
+    "name": "The Midas Touch Gold",
+    "symbol": "TMTG",
+    "id": 847,
+    "guid": "2e25bf5d-c436-4e24-88ec-743625bfb695"
+  },
+  {
+    "name": "Crypto.com",
+    "symbol": "MCO",
+    "id": 53,
+    "guid": "0dcd32a8-76c5-4d74-82a6-9dd1c647960e"
+  },
+  {
+    "name": "Carry Token",
+    "symbol": "CARRY",
+    "id": 884,
+    "guid": "67b67433-0795-45ff-80e5-f2175cf7c32a"
+  },
+  {
+    "name": "Carry Protocol",
+    "symbol": "CRE",
+    "id": 919,
+    "guid": "1aae2c7f-a948-48bd-8486-97a5bb335ff3"
+  },
+  {
+    "name": "Zap",
+    "symbol": "ZAP",
+    "id": 498,
+    "guid": "985b96ff-1573-43cb-83a6-5b9ce3ddc07a",
+    "tokenType": "defi",
+    "tokenCategory": "other"
+  },
+  {
+    "name": "Contentos",
+    "symbol": "COS",
+    "id": 906,
+    "guid": "74df7695-31f7-436b-8c97-eaec0ef533f5"
+  },
+  {
+    "name": "cVault.finance",
+    "symbol": "CORE",
+    "id": 1013,
+    "guid": "610ef622-4efe-457e-86a4-9ec28200f41d",
+    "tokenType": "defi",
+    "tokenCategory": "assetmgmt"
+  },
+  {
+    "name": "Bluzelle",
+    "symbol": "BLZ",
+    "id": 223,
+    "guid": "ec32dbaa-f05f-48a4-89c4-e226638bb17e"
+  },
+  {
+    "name": "BTU Protocol",
+    "symbol": "BTU",
+    "id": 101,
+    "guid": "f12e8acb-1af0-4eaf-89cd-3c7fc602b7ea"
+  },
+  {
+    "name": "Audius",
+    "symbol": "AUDIO",
+    "id": 1018,
+    "guid": "b15f418a-bee8-47be-88c8-0a006ddcdff8"
+  },
+  {
+    "name": "Bezop",
+    "symbol": "BEZ",
+    "id": 565,
+    "guid": "6f4e65a0-b7e2-4527-898d-41e252692696"
+  },
+  {
+    "name": "PAYCENT",
+    "symbol": "PYN",
+    "id": 362,
+    "guid": "2237ec99-5f69-44dc-89a7-13c61de63804"
+  },
+  {
+    "name": "Selfkey",
+    "symbol": "KEY",
+    "id": 283,
+    "guid": "f3db16a0-8368-4eb2-820f-b9c91d7c0742"
+  },
+  {
+    "name": "Meta",
+    "symbol": "MTA",
+    "id": 927,
+    "guid": "c79a5bb8-b16f-40dc-8021-fca9796afb7b",
+    "tokenType": "defi",
+    "tokenCategory": "stableassets"
+  },
+  {
+    "name": "Dragonchain",
+    "symbol": "DRGN",
+    "id": 163,
+    "guid": "487c1051-9baa-4cc8-87e9-d1eccba4d2e5"
+  },
+  {
+    "name": "dForce",
+    "symbol": "DF",
+    "id": 961,
+    "guid": "cc7fe8d4-fe9e-4afb-853e-ac8a348df63d",
+    "tokenType": "defi",
+    "tokenCategory": "stableassets"
+  },
+  {
+    "name": "Lambda",
+    "symbol": "LAMB",
+    "id": 66,
+    "guid": "4f519e47-312f-4d4f-8456-a542d834f041"
+  },
+  {
+    "name": "STACS",
+    "symbol": "STACS",
+    "id": 262,
+    "guid": "4d9f53fd-27f0-4c08-87ea-b207adf66c94"
+  },
+  {
+    "name": "STP Network",
+    "symbol": "STPT",
+    "id": 910,
+    "guid": "60c3ec27-bf38-4925-87cd-d7e6f96cd349"
+  },
+  {
+    "name": "Cortex",
+    "symbol": "CTXC",
+    "id": 144,
+    "guid": "300662f7-84ed-41aa-80d4-c3b7cf6c9179"
+  },
+  {
+    "name": "Ripio Credit Network",
+    "symbol": "RCN",
+    "id": 108,
+    "guid": "d30e781c-3803-467f-87a6-8182692f3180"
+  },
+  {
+    "name": "pNetwork",
+    "symbol": "PNT",
+    "id": 968,
+    "guid": "5afd15d9-9ae9-4f18-83e1-cbb5ab568168"
+  },
+  {
+    "name": "TTC Protocol",
+    "symbol": "TTC",
+    "id": 131,
+    "guid": "c96dc65a-0890-46f4-8c8e-086b6d3bd06a"
+  },
+  {
+    "name": "ARPA Chain",
+    "symbol": "ARPA",
+    "id": 900,
+    "guid": "ce6a8412-f1bb-4ad8-8f16-f0e797095353"
+  },
+  {
+    "name": "Darico Ecosystem Coin",
+    "symbol": "DEC",
+    "id": 270,
+    "guid": "f1ac77b1-01f5-492c-8c55-123ca97a7efa"
+  },
+  {
+    "name": "Cindicator",
+    "symbol": "CND",
+    "id": 128,
+    "guid": "9cc9e44b-9cc1-4c0b-873e-be47d5c9be20"
+  },
+  {
+    "name": "TaaS",
+    "symbol": "TAAS",
+    "id": 205,
+    "guid": "ec497d7d-6697-46f4-82e6-a72c9bdf36e8"
+  },
+  {
+    "name": "DigixDAO",
+    "symbol": "DGD",
+    "id": 82,
+    "guid": "dcb67e86-fb97-4de2-8a12-1cfa8b7a7370"
+  },
+  {
+    "name": "Stox",
+    "symbol": "STX",
+    "id": 457,
+    "guid": "a12d99ab-5b73-4017-8cf0-59e5ebc4e8cc"
+  },
+  {
+    "name": "Peculium",
+    "symbol": "PCL",
+    "id": 275,
+    "guid": "157df8fe-7bd0-4a8b-8b06-87c3f7915302"
+  },
+  {
+    "name": "Sentinel Protocol",
+    "symbol": "UPP",
+    "id": 307,
+    "guid": "a500b236-1df1-47e8-8c3d-c775cc414989"
+  },
+  {
+    "name": "Idex",
+    "symbol": "IDEX",
+    "id": 200,
+    "guid": "be642410-2dc7-4121-8718-a3cc03284a21",
+    "tokenType": "defi",
+    "tokenCategory": "dexes"
+  },
+  {
+    "name": "LatiumX",
+    "symbol": "LATX",
+    "id": 541,
+    "guid": "7918c6dd-ef09-4c52-884c-4197cb1e096f"
+  },
+  {
+    "name": "Bankera",
+    "symbol": "BNK",
+    "id": 63,
+    "guid": "8ac7f027-1994-4e2a-8119-148fa8676eb7"
+  },
+  {
+    "name": "Ivy",
+    "symbol": "IVY",
+    "id": 211,
+    "guid": "e1344386-98a6-406b-84af-154ec425151e"
+  },
+  {
+    "name": "SIRIN LABS Token",
+    "symbol": "SRN",
+    "id": 251,
+    "guid": "e662c0ac-b3b7-48b4-89f7-478cd16256fb"
+  },
+  {
+    "name": "Function X",
+    "symbol": "FUNX",
+    "id": 889,
+    "guid": "203fe816-dd42-407f-8850-da6d0a16ab7d"
+  },
+  {
+    "name": "Nebulas",
+    "symbol": "NAS",
+    "id": 76,
+    "guid": "d7bb29c9-e892-4e8a-8959-6bee62c5c003"
+  },
+  {
+    "name": "EasyFi",
+    "symbol": "EASY",
+    "id": 1006,
+    "guid": "4596d820-bf5f-41d4-8166-310779f69e2b",
+    "tokenType": "defi",
+    "tokenCategory": "lending"
+  },
+  {
+    "name": "AirSwap",
+    "symbol": "AST",
+    "id": 256,
+    "guid": "8339e59a-f2af-43e5-8aa7-b11da27a7ea5"
+  },
+  {
+    "name": "Quantstamp",
+    "symbol": "QSP",
+    "id": 187,
+    "guid": "b63b43e9-a03e-4015-86e2-7d50943703f7"
+  },
+  {
+    "name": "Fusion",
+    "symbol": "FSN",
+    "id": 148,
+    "guid": "a009d092-4e51-4858-8ed5-a6d9617f88a7"
+  },
+  {
+    "name": "V-ID",
+    "symbol": "VIDT",
+    "id": 305,
+    "guid": "fcf4c7ea-d280-4948-82a3-ca0e66107227"
+  },
+  {
+    "name": "Constellation",
+    "symbol": "DAG",
+    "id": 220,
+    "guid": "0d2ac6e7-fdbf-40b4-843c-6f8538579204"
+  },
+  {
+    "name": "Meme",
+    "symbol": "MEME",
+    "id": 951,
+    "guid": "0304af29-d750-44cb-861c-6850f31ebb08"
+  },
+  {
+    "name": "Atomic Wallet Coin",
+    "symbol": "AWC",
+    "id": 490,
+    "guid": "88840695-eeae-47d5-841c-c5fa3b0f38cc"
+  },
+  {
+    "name": "Measurable Data Token",
+    "symbol": "MDT",
+    "id": 914,
+    "guid": "0daee8a7-0fe4-4232-83aa-916ff804106c"
+  },
+  {
+    "name": "FarmaTrust",
+    "symbol": "FARMA",
+    "id": 648,
+    "guid": "66ae3128-6730-44d1-8f0c-5aeac41bbf8f"
+  },
+  {
+    "name": "Refereum",
+    "symbol": "RFR",
+    "id": 302,
+    "guid": "62c8a3ff-b1f0-4bc5-80c5-73a9301201c0"
+  },
+  {
+    "name": "BitKan",
+    "symbol": "KAN",
+    "id": 157,
+    "guid": "c435223b-0ee4-4b88-8120-e40cc89312fc"
+  },
+  {
+    "name": "Bezant",
+    "symbol": "BZNT",
+    "id": 240,
+    "guid": "407e44a8-549b-4644-890c-552a33c7e749"
+  },
+  {
+    "name": "Bittwatt",
+    "symbol": "BWT",
+    "id": 297,
+    "guid": "048e0018-4f07-4f9c-8dfb-667d1379dcdc"
+  },
+  {
+    "name": "Sentivate",
+    "symbol": "SNTVT",
+    "id": 318,
+    "guid": "0a1ac732-0648-45e7-8fa3-8748e46a478c"
+  },
+  {
+    "name": "Ultiledger",
+    "symbol": "ULT",
+    "id": 886,
+    "guid": "259f7cfc-ebdd-4f5e-841e-9e5be080a451"
+  },
+  {
+    "name": "Aergo",
+    "symbol": "AERGO",
+    "id": 242,
+    "guid": "908feb84-600f-483f-89cc-27bdb5815103"
+  },
+  {
+    "name": "PumaPay",
+    "symbol": "PMA",
+    "id": 238,
+    "guid": "7954f729-0f87-4a28-839a-5b7a3baa4a4b"
+  },
+  {
+    "name": "Perlin",
+    "symbol": "PERL",
+    "id": 890,
+    "guid": "43168318-0df4-4441-8860-f6f5258e94bc"
+  },
+  {
+    "name": "DREP",
+    "symbol": "DREP",
+    "id": 907,
+    "guid": "5d7bc686-07c9-4c2a-86fc-e56ec97ed731"
+  },
+  {
+    "name": "Metronome",
+    "symbol": "MET",
+    "id": 975,
+    "guid": "03a935fa-520c-4331-8c95-a4e125ceffad",
+    "tokenType": "defi",
+    "tokenCategory": "other"
+  },
+  {
+    "name": "Veritaseum",
+    "symbol": "VERI",
+    "id": 102,
+    "guid": "3c177e93-25b5-4bb5-8b5a-66885ae3dfcc"
+  },
+  {
+    "name": "NKN",
+    "symbol": "NKN",
+    "id": 908,
+    "guid": "c84a9a8a-1a74-4617-84b2-2acc54043f1e"
+  },
+  {
+    "name": "GeoDB",
+    "symbol": "GEO",
+    "id": 1017,
+    "guid": "8056b43e-d6af-4ffe-805a-2b6829d69207"
+  },
+  {
+    "name": "Nebula AI",
+    "symbol": "NBAI",
+    "id": 313,
+    "guid": "7ebbd018-a24c-40e1-89cd-08d090145089"
+  },
+  {
+    "name": "Scanetchain",
+    "symbol": "SWC",
+    "id": 647,
+    "guid": "e3925568-e7b8-4e83-8081-40e0381c10c8"
+  },
+  {
+    "name": "DMarket",
+    "symbol": "DMT",
+    "id": 298,
+    "guid": "1cb27c62-fc5c-4bd8-80dc-3a46a0e0f3b4"
+  },
+  {
+    "name": "LATOKEN",
+    "symbol": "LA",
+    "id": 91,
+    "guid": "d4217ba0-d17c-4ac8-86c6-fcc19f051dda"
+  },
+  {
+    "name": "The Force Protocol",
+    "symbol": "FOR",
+    "id": 971,
+    "guid": "fd61bbe4-7ae4-486d-8ddc-16ae67ffb182",
+    "tokenType": "defi",
+    "tokenCategory": "lending"
+  },
+  {
+    "name": "BoringDAO",
+    "symbol": "BOR",
+    "id": 1032,
+    "guid": "a519d295-9a38-4e92-86d0-b10d4de7c896",
+    "tokenType": "defi",
+    "tokenCategory": "Other"
+  },
+  {
+    "name": "Presearch",
+    "symbol": "PRE",
+    "id": 477,
+    "guid": "d7f6c7e8-6920-41d8-8699-796c9c884416"
+  },
+  {
+    "name": "AMO Coin",
+    "symbol": "AMO",
+    "id": 327,
+    "guid": "479c7be6-b49e-4049-85b7-29929c2ef5d9"
+  },
+  {
+    "name": "Crypterium",
+    "symbol": "CRPT",
+    "id": 52,
+    "guid": "c5f6aa8f-928f-4471-8cca-c98b05b716fc"
+  },
+  {
+    "name": "Dock",
+    "symbol": "DOCK",
+    "id": 209,
+    "guid": "f1839514-112e-4d48-8941-6a8376dd90c4"
+  },
+  {
+    "name": "Chromia",
+    "symbol": "CHR",
+    "id": 904,
+    "guid": "6293905a-0b42-46b0-867f-cfbf6a4ee515"
+  },
+  {
+    "name": "TenX",
+    "symbol": "PAY",
+    "id": 141,
+    "guid": "84844988-178d-46d5-83be-a1a16fc044b7"
+  },
+  {
+    "name": "ETERNAL TOKEN",
+    "symbol": "XET",
+    "id": 116,
+    "guid": "57dc0350-8d31-4e03-8424-2db1f928ca38"
+  },
+  {
+    "name": "0Chain",
+    "symbol": "ZCN",
+    "id": 379,
+    "guid": "15f57b00-2b60-4030-8b38-0bb5a707d604"
+  },
+  {
+    "name": "Sentinel",
+    "symbol": "SENT",
+    "id": 280,
+    "guid": "1305d7a6-7eb4-45b8-8557-4e484bdf9f7f"
+  },
+  {
+    "name": "QASH",
+    "symbol": "QASH",
+    "id": 83,
+    "guid": "594f621c-e17f-4132-8073-b7143a0169f8"
+  },
+  {
+    "name": "Moeda Loyalty Points",
+    "symbol": "MDA",
+    "id": 98,
+    "guid": "d4536edb-3ed2-4a3d-8d28-42e893cc9f21"
+  },
+  {
+    "name": "MovieBloc",
+    "symbol": "MBL",
+    "id": 986,
+    "guid": "45685ebb-a2ef-4855-827c-0d352867fe0e"
+  },
+  {
+    "name": "RoBET",
+    "symbol": "ROBET",
+    "id": 289,
+    "guid": "d7afe93c-61a2-498b-8ff3-edd73ed4799f"
+  },
+  {
+    "name": "Proxeus",
+    "symbol": "XES",
+    "id": 378,
+    "guid": "4c088d45-e632-4ee5-8d28-0d27d1fafe13"
+  },
+  {
+    "name": "Morpheus Labs",
+    "symbol": "MITX",
+    "id": 329,
+    "guid": "69cc35d3-e79f-4cd2-8130-f2e7bc368ebe"
+  },
+  {
+    "name": "Next.exchange",
+    "symbol": "NEXT",
+    "id": 430,
+    "guid": "6c6364c4-af6b-4e9a-88a2-e9f820904559"
+  },
+  {
+    "name": "Tael",
+    "symbol": "WABI",
+    "id": 166,
+    "guid": "bba93c5a-b8bf-4d38-86be-cb63bd4de6e8"
+  },
+  {
+    "name": "Pickle Finance",
+    "symbol": "PICKLE",
+    "id": 966,
+    "guid": "7de84711-165e-4ccd-878d-72d10409207c",
+    "tokenType": "defi",
+    "tokenCategory": "assetmgmt"
+  },
+  {
+    "name": "VestChain",
+    "symbol": "VEST",
+    "id": 100,
+    "guid": "a66f6fa1-2f80-4a0b-836c-379b91c2d436"
+  },
+  {
+    "name": "Swarm",
+    "symbol": "SWM",
+    "id": 272,
+    "guid": "0d8a870b-4531-4bd1-8ed1-0f7fbeb05d56"
+  },
+  {
+    "name": "BnkToTheFuture",
+    "symbol": "BFT",
+    "id": 149,
+    "guid": "f44418a1-1e80-4826-8bc6-9a96a0e64dc7"
+  },
+  {
+    "name": "Grid+",
+    "symbol": "GRID",
+    "id": 352,
+    "guid": "bfdc1993-e409-4ae9-881d-12ce57aeea21"
+  },
+  {
+    "name": "AppCoins",
+    "symbol": "APPC",
+    "id": 278,
+    "guid": "94b347f0-a6d5-448c-800b-65a40ff2065a"
+  },
+  {
+    "name": "Mithril",
+    "symbol": "MITH",
+    "id": 159,
+    "guid": "598eb99b-a34e-4bbe-8fd9-9e732ab05e8a"
+  },
+  {
+    "name": "OAX",
+    "symbol": "OAX",
+    "id": 215,
+    "guid": "a958c1e9-8fa7-4279-8514-bbe93420d026"
+  },
+  {
+    "name": "Hakka Finance",
+    "symbol": "HAKKA",
+    "id": 965,
+    "guid": "7b0af35c-c57e-497a-85f5-22e582a86200",
+    "tokenType": "defi",
+    "tokenCategory": "dexes"
+  },
+  {
+    "name": "Metadium",
+    "symbol": "META",
+    "id": 180,
+    "guid": "19eef08f-ff46-41b1-851e-868bdcb19415"
+  },
+  {
+    "name": "Genesis Vision",
+    "symbol": "GVT",
+    "id": 233,
+    "guid": "0762ed94-0978-4a67-8a97-3fa7cb825dae"
+  },
+  {
+    "name": "TrueChain",
+    "symbol": "TRUE",
+    "id": 111,
+    "guid": "70defc5a-aacd-42e2-897b-62794bf10aea"
+  },
+  {
+    "name": "Molecular Future",
+    "symbol": "MOF",
+    "id": 124,
+    "guid": "eb82cad1-9a45-4ee8-8177-c7cdc741e787"
+  },
+  {
+    "name": "Ambrosus",
+    "symbol": "AMB",
+    "id": 286,
+    "guid": "a7fd8828-2b08-4a8f-89d8-317aeb28e9c9"
+  },
+  {
+    "name": "WePower",
+    "symbol": "WPR",
+    "id": 248,
+    "guid": "8c48c780-4d8f-4ae7-8222-297aca7313f0"
+  },
+  {
+    "name": "Propy",
+    "symbol": "PRO",
+    "id": 216,
+    "guid": "59a3503e-b9a7-4bc2-809f-89a5e5b0d6a1"
+  },
+  {
+    "name": "Bread",
+    "symbol": "BRD",
+    "id": 93,
+    "guid": "de7334dd-48df-4291-84ac-705b692d3911"
+  },
+  {
+    "name": "CoinEx Token",
+    "symbol": "CET",
+    "id": 752,
+    "guid": "86624b92-5354-45ef-8456-f7ebd030e486"
+  },
+  {
+    "name": "PARETO Rewards",
+    "symbol": "PARETO",
+    "id": 334,
+    "guid": "22b7687f-540c-49a6-8f19-976a0b48899a"
+  },
+  {
+    "name": "SALT",
+    "symbol": "SALT",
+    "id": 190,
+    "guid": "4be87f16-2ec6-46bc-8f6a-05c0356ef93c"
+  },
+  {
+    "name": "POPCHAIN",
+    "symbol": "PCH",
+    "id": 358,
+    "guid": "83164d2f-b36b-4223-820c-04a2355494f2"
+  },
+  {
+    "name": "Idle Finance",
+    "symbol": "IDLE",
+    "id": 1021,
+    "guid": "b1d529f0-7c04-459f-87b1-9be9c1212c4d",
+    "tokenType": "defi",
+    "tokenCategory": "assetmgmt"
+  },
+  {
+    "name": "Qubitica",
+    "symbol": "QBIT",
+    "id": 79,
+    "guid": "09bb4d6d-67dd-4f23-845c-18c47a578ab6"
+  },
+  {
+    "name": "Nucleus Vision",
+    "symbol": "NCASH",
+    "id": 219,
+    "guid": "86d5aa04-8a26-4ecf-8ed3-da7861cb9200"
+  },
+  {
+    "name": "TokenClub",
+    "symbol": "TCT",
+    "id": 222,
+    "guid": "164cb755-74f2-4497-8ac3-6405fc211bde"
+  },
+  {
+    "name": "Shroom Finance",
+    "symbol": "SHROOM",
+    "id": 991,
+    "guid": "6bf0473d-8117-40cb-83c0-87744c907f31",
+    "tokenType": "defi",
+    "tokenCategory": "other"
+  },
+  {
+    "name": "Jibrel Network",
+    "symbol": "JNT",
+    "id": 273,
+    "guid": "98af2275-2493-4ab3-8728-7a8f4672eb63"
+  },
+  {
+    "name": "Gifto",
+    "symbol": "GTO",
+    "id": 172,
+    "guid": "a75131cb-420a-440f-82c1-0d1c16b83467"
+  },
+  {
+    "name": "VITE",
+    "symbol": "VITE",
+    "id": 243,
+    "guid": "602aa2c5-c39e-4e06-8cd5-727c31a6449b"
+  },
+  {
+    "name": "Essentia",
+    "symbol": "ESS",
+    "id": 503,
+    "guid": "b3344e9f-da8f-441c-8b09-a28c437253e3"
+  },
+  {
+    "name": "Bela",
+    "symbol": "BELA",
+    "id": 346,
+    "guid": "737853c5-0cde-4038-869f-31bd8ef52a18"
+  },
+  {
+    "name": "Ruff",
+    "symbol": "RUFF",
+    "id": 168,
+    "guid": "75ce2648-164c-42e6-8c9c-56ebaf1c6c38"
+  },
+  {
+    "name": "YF Link",
+    "symbol": "YFL",
+    "id": 958,
+    "guid": "33a9f439-bb70-48d7-889f-a379cf8ce2d8",
+    "tokenType": "defi",
+    "tokenCategory": "assetmgmt"
+  },
+  {
+    "name": "Rarible",
+    "symbol": "RARI",
+    "id": 952,
+    "guid": "bdc07725-0248-434f-8453-d4f4216c292a"
+  },
+  {
+    "name": "Swerve",
+    "symbol": "SWRV",
+    "id": 948,
+    "guid": "05da2f73-dbe3-4a4b-8460-1949429ac5ee",
+    "tokenType": "defi",
+    "tokenCategory": "dexes"
+  },
+  {
+    "name": "OST",
+    "symbol": "OST",
+    "id": 176,
+    "guid": "68104d46-48f5-419f-869e-fad5ad9eb2ff"
+  },
+  {
+    "name": "Dynamic Trading Rights",
+    "symbol": "DTR",
+    "id": 42,
+    "guid": "48ffbbb4-7e27-4aae-8e99-e713f6b8a88e"
+  },
+  {
+    "name": "Egretia",
+    "symbol": "EGT",
+    "id": 167,
+    "guid": "19266d0d-9c10-48c7-8d72-d1e434e7994f"
+  },
+  {
+    "name": "BUDDY",
+    "symbol": "BUD",
+    "id": 744,
+    "guid": "78b7348d-9422-4b92-842e-c07a9a528ee0"
+  },
+  {
+    "name": "Abyss Token",
+    "symbol": "ABYSS",
+    "id": 339,
+    "guid": "11739a2f-70a0-428a-82f5-c20d81854f4e"
+  },
+  {
+    "name": "Arcblock",
+    "symbol": "ABT",
+    "id": 130,
+    "guid": "84b8c559-15d2-4348-8391-7c7eb55f5d90"
+  },
+  {
+    "name": "Everex",
+    "symbol": "EVX",
+    "id": 169,
+    "guid": "8bb8858b-054b-44db-8c8c-2f4f4f23830e"
+  },
+  {
+    "name": "YOYOW",
+    "symbol": "YOYOW",
+    "id": 244,
+    "guid": "b35171e0-7c61-4739-8621-52c895cc3bef"
+  },
+  {
+    "name": "BitForex Token",
+    "symbol": "BF",
+    "id": 882,
+    "guid": "3ec825e7-c363-49fa-8a15-c130420ee6f5"
+  },
+  {
+    "name": "FOAM",
+    "symbol": "FOAM",
+    "id": 164,
+    "guid": "c5f29624-f33e-423e-82ad-b029caa211d4"
+  },
+  {
+    "name": "Vidy",
+    "symbol": "VIDY",
+    "id": 870,
+    "guid": "6d92e7f8-4237-4098-8b88-2e0f8b39f1c7"
+  },
+  {
+    "name": "Blox",
+    "symbol": "CDT",
+    "id": 188,
+    "guid": "d8b788d5-b2e4-470e-81dc-d84bdee8627d"
+  },
+  {
+    "name": "Santiment Network Token",
+    "symbol": "SAN",
+    "id": 99,
+    "guid": "928cfdf7-33ab-4ff1-881a-ce7b5a400df3"
+  },
+  {
+    "name": "Spectre.ai Utility Token",
+    "symbol": "SXUT",
+    "id": 393,
+    "guid": "aca2075f-4a54-4a2b-8dc7-3094ad664c71"
+  },
+  {
+    "name": "Bibox Token",
+    "symbol": "BIX",
+    "id": 125,
+    "guid": "953576ea-2a7b-4411-8530-5e17c3e058a3"
+  },
+  {
+    "name": "Agrello",
+    "symbol": "DLT",
+    "id": 269,
+    "guid": "1906b52f-92a2-4bb4-831d-4377a849d955"
+  },
+  {
+    "name": "CyberMiles",
+    "symbol": "CMT",
+    "id": 132,
+    "guid": "8aedecd5-3173-4821-8656-65746ba35701"
+  },
+  {
+    "name": "Aurora",
+    "symbol": "AOA",
+    "id": 47,
+    "guid": "22a632a4-906a-4620-875f-0bd924600787"
+  },
+  {
+    "name": "Kcash",
+    "symbol": "KCASH",
+    "id": 304,
+    "guid": "6bb608ae-84f8-4986-87d2-a3ce7fff2199"
+  },
+  {
+    "name": "BLOCKv",
+    "symbol": "VEE",
+    "id": 232,
+    "guid": "008ceb8f-7ff8-4136-85ce-9b97251390e7"
+  },
+  {
+    "name": "SRCOIN",
+    "symbol": "SRCOIN",
+    "id": 416,
+    "guid": "3820efd8-fa41-4bd5-88c0-44c9375a3f46"
+  },
+  {
+    "name": "Tap",
+    "symbol": "XTP",
+    "id": 874,
+    "guid": "b2d30c04-7e3b-4257-8a69-403c6e41934a"
+  },
+  {
+    "name": "Internxt",
+    "symbol": "INXT",
+    "id": 375,
+    "guid": "fd3c824f-3029-4bda-8fa2-7dce6caef44e"
+  },
+  {
+    "name": "IQeon",
+    "symbol": "IQN",
+    "id": 399,
+    "guid": "08db3b50-d453-4a5a-808b-5b5b02500f10"
+  },
+  {
+    "name": "Bloom",
+    "symbol": "BLT",
+    "id": 360,
+    "guid": "634954e4-1401-4780-8c61-89ccb6b1866b"
+  },
+  {
+    "name": "ShowHand",
+    "symbol": "HAND",
+    "id": 696,
+    "guid": "30d859d9-238a-4bcc-818a-f4e914087bed"
+  },
+  {
+    "name": "CargoX",
+    "symbol": "CXO",
+    "id": 405,
+    "guid": "9c853ac3-d548-4ce5-8ea3-bc59e481a9fc"
+  },
+  {
+    "name": "Cobinhood",
+    "symbol": "COB",
+    "id": 408,
+    "guid": "fd366c8a-dcb6-4069-85d5-5f5e28a51770"
+  },
+  {
+    "name": "Lympo",
+    "symbol": "LYM",
+    "id": 264,
+    "guid": "649b0b57-1ff2-4828-89a8-2d9a9f6997c6"
+  },
+  {
+    "name": "Verasity",
+    "symbol": "VRA",
+    "id": 444,
+    "guid": "c5fbc032-5760-4af7-8abe-43bbdb7457d6"
+  },
+  {
+    "name": "BaaSid",
+    "symbol": "BAAS",
+    "id": 324,
+    "guid": "bf02633e-5378-486d-8297-f11a580fe940"
+  },
+  {
+    "name": "HYDRO",
+    "symbol": "HYDRO",
+    "id": 196,
+    "guid": "7d3a7e55-21df-4065-88fe-73ba8c662551"
+  },
+  {
+    "name": "United Traders Token",
+    "symbol": "UTT",
+    "id": 133,
+    "guid": "cd1e42fe-7085-4445-8f0c-f03e9d27425c"
+  },
+  {
+    "name": "High Performance Blockchain",
+    "symbol": "HPB",
+    "id": 170,
+    "guid": "0488fa0d-e856-484a-89f3-9502ed7b0719"
+  },
+  {
+    "name": "Auctus",
+    "symbol": "AUC",
+    "id": 976,
+    "guid": "76635834-7a68-4dec-8851-b1335f52d3ae",
+    "tokenType": "defi",
+    "tokenCategory": "dexes"
+  },
+  {
+    "name": "Tokenomy",
+    "symbol": "TEN",
+    "id": 189,
+    "guid": "57a8912a-e8a0-4a42-8144-66b84627ce47"
+  },
+  {
+    "name": "Privatix",
+    "symbol": "PRIX",
+    "id": 422,
+    "guid": "266e18fe-35d8-46ec-861a-5a48af27e519"
+  },
+  {
+    "name": "Credo",
+    "symbol": "CREDO",
+    "id": 420,
+    "guid": "a801d48b-78a6-4a3a-8280-0672d409aab9"
+  },
+  {
+    "name": "IoT Chain",
+    "symbol": "ITC",
+    "id": 153,
+    "guid": "f5d50e23-5d79-416a-8cef-3542b0459582"
+  },
+  {
+    "name": "Dentacoin",
+    "symbol": "DCN",
+    "id": 142,
+    "guid": "8b8b31d0-3d3b-4077-8187-36f49c79d381"
+  },
+  {
+    "name": "Time New Bank",
+    "symbol": "TNB",
+    "id": 178,
+    "guid": "0ba9ed33-e62b-4738-8ce3-dbb9d8277149"
+  },
+  {
+    "name": "Hydro Protocol",
+    "symbol": "HOT",
+    "id": 979,
+    "guid": "26c67bc0-b2db-4657-826f-7a23420d25cc"
+  },
+  {
+    "name": "Liquidity Network",
+    "symbol": "LQD",
+    "id": 428,
+    "guid": "1fedb180-fe21-4c5b-83b2-6f090f139f62"
+  },
+  {
+    "name": "Ubcoin Market",
+    "symbol": "UBC",
+    "id": 425,
+    "guid": "c3c11ba1-2960-4df4-8caf-dc5a2e93f8fa"
+  },
+  {
+    "name": "DATA",
+    "symbol": "DTA",
+    "id": 290,
+    "guid": "dcf2de1e-bd59-4934-8987-5f06b196b313"
+  },
+  {
+    "name": "PieDAO Dough v2",
+    "symbol": "DOUGH",
+    "id": 994,
+    "guid": "7901dba2-cdf9-4d82-867e-134888c90952",
+    "tokenType": "defi",
+    "tokenCategory": "other"
+  },
+  {
+    "name": "Kryll",
+    "symbol": "KRL",
+    "id": 382,
+    "guid": "abc93342-38ca-49fe-893d-ee6c617ec410"
+  },
+  {
+    "name": "LikeCoin",
+    "symbol": "LIKE",
+    "id": 404,
+    "guid": "3dbbae5f-47a3-41ca-8a7f-77d582673438"
+  },
+  {
+    "name": "Cardstack",
+    "symbol": "CARD",
+    "id": 475,
+    "guid": "82cc8b8b-7cae-48b1-895d-e43ce709f82a"
+  },
+  {
+    "name": "Colu Local Network",
+    "symbol": "CLN",
+    "id": 380,
+    "guid": "8f6888f5-02fc-43d8-86f3-100b7a9be3ec"
+  },
+  {
+    "name": "Gamb",
+    "symbol": "GMB",
+    "id": 417,
+    "guid": "05170c07-5570-4ff4-87e8-433d637546fd"
+  },
+  {
+    "name": "SONM",
+    "symbol": "SNM",
+    "id": 250,
+    "guid": "a4db9814-b918-4149-8ee1-ec09e082188f"
+  },
+  {
+    "name": "Blockchain Certified Data Token",
+    "symbol": "BCDT",
+    "id": 459,
+    "guid": "c4fe77ba-0598-4f89-84d7-b17d5a891a3b"
+  },
+  {
+    "name": "Swftcoin",
+    "symbol": "SWFTC",
+    "id": 266,
+    "guid": "59e6f7a3-665c-4eb6-8b63-1c519526c932"
+  },
+  {
+    "name": "Monetha",
+    "symbol": "MTH",
+    "id": 203,
+    "guid": "c424c018-9773-4e9e-8438-5cd8bae8d083"
+  },
+  {
+    "name": "ALIS",
+    "symbol": "ALIS",
+    "id": 434,
+    "guid": "2fccebe8-b126-4d96-895d-74ea996fc985"
+  },
+  {
+    "name": "Winding Tree",
+    "symbol": "LIF",
+    "id": 287,
+    "guid": "d75272b8-ea2c-4534-8971-4a7b3baee210"
+  },
+  {
+    "name": "Pillar",
+    "symbol": "PLR",
+    "id": 224,
+    "guid": "21338614-a9af-4106-82f0-7cb894c393eb"
+  },
+  {
+    "name": "Tokenbox",
+    "symbol": "TBX",
+    "id": 437,
+    "guid": "d86dcb09-4a88-4f21-8081-e914f959798b"
+  },
+  {
+    "name": "Aston",
+    "symbol": "ATX",
+    "id": 649,
+    "guid": "0e7b2005-1d30-4067-8752-9222933c3633"
+  },
+  {
+    "name": "Unikoin Gold",
+    "symbol": "UKG",
+    "id": 335,
+    "guid": "e0a202df-70bf-49d2-8de1-af2e50d73271"
+  },
+  {
+    "name": "CashBetCoin",
+    "symbol": "CBC",
+    "id": 516,
+    "guid": "af9fcef3-4c28-4b81-8d39-ec44fcddf71f"
+  },
+  {
+    "name": "SingularDTV",
+    "symbol": "SNGLS",
+    "id": 208,
+    "guid": "21fddb7e-524b-48f2-8ed6-64fee7cd962c"
+  },
+  {
+    "name": "SnapCoin",
+    "symbol": "SNPC",
+    "id": 539,
+    "guid": "ef72e3d8-6672-4686-8e53-de484336d7b6"
+  },
+  {
+    "name": "REAL",
+    "symbol": "REAL",
+    "id": 389,
+    "guid": "f0277dd0-ab40-4bed-805d-e8ac57cc64aa"
+  },
+  {
+    "name": "MediShares",
+    "symbol": "MDS",
+    "id": 316,
+    "guid": "5c0b7eaf-d703-41b1-8e7e-691c94ff87c0"
+  },
+  {
+    "name": "Seele",
+    "symbol": "SEELE",
+    "id": 185,
+    "guid": "34f35d73-3ac5-4d8b-8252-82830be606da"
+  },
+  {
+    "name": "VIT",
+    "symbol": "VIT",
+    "id": 495,
+    "guid": "83c6709a-0bed-444e-89e0-fc78f6469daa"
+  },
+  {
+    "name": "All Sports",
+    "symbol": "SOC",
+    "id": 184,
+    "guid": "5a4e175b-ea4f-4852-81d5-783b73e3e9f6"
+  },
+  {
+    "name": "Coinlancer",
+    "symbol": "CL",
+    "id": 472,
+    "guid": "7bb11881-c194-4ed3-8206-d2651ae5be23"
+  },
+  {
+    "name": "SunContract",
+    "symbol": "SNC",
+    "id": 325,
+    "guid": "e3efb674-5747-48b8-8643-8dc98c5439f5"
+  },
+  {
+    "name": "BOLT",
+    "symbol": "BOLT",
+    "id": 217,
+    "guid": "8ef018ec-44ad-419f-81f5-8b9f1c5471b5"
+  },
+  {
+    "name": "XYO",
+    "symbol": "XYO",
+    "id": 288,
+    "guid": "c6ee9668-4a52-4d7b-8c19-806789d17093"
+  },
+  {
+    "name": "BitMart Token",
+    "symbol": "BMX",
+    "id": 261,
+    "guid": "f02a1d29-ef72-4047-84c5-0393c1bd7cf5"
+  },
+  {
+    "name": "Neumark",
+    "symbol": "NEU",
+    "id": 257,
+    "guid": "84d2333e-16d6-4a63-801e-20985f605011"
+  },
+  {
+    "name": "carVertical",
+    "symbol": "CV",
+    "id": 355,
+    "guid": "4574f5f7-d800-4869-8c77-1fd68bd0b8a4"
+  },
+  {
+    "name": "SyncFab",
+    "symbol": "MFG",
+    "id": 522,
+    "guid": "aa5b73e1-0c63-4fab-817e-7c0c6822cca8"
+  },
+  {
+    "name": "Matrix AI Network",
+    "symbol": "MAN",
+    "id": 160,
+    "guid": "3bfa6da8-f427-4f5b-87e8-ceee8c636eb5"
+  },
+  {
+    "name": "HitChain",
+    "symbol": "HIT",
+    "id": 798,
+    "guid": "d1d5a1e1-7fe3-4bfb-8407-2b90ed20a68a"
+  },
+  {
+    "name": "BANKEX",
+    "symbol": "BKX",
+    "id": 397,
+    "guid": "8b1c98a5-c75a-4e19-8212-81d3bb475788"
+  },
+  {
+    "name": "DecentBet",
+    "symbol": "DBET",
+    "id": 229,
+    "guid": "6f0f63b0-30ee-4de4-801c-1d7dc039ab14"
+  },
+  {
+    "name": "Zippie",
+    "symbol": "ZIPT",
+    "id": 469,
+    "guid": "2dd13d9f-0249-40db-89b9-70db6bc7f466"
+  },
+  {
+    "name": "Jarvis Reward Token",
+    "symbol": "JRT",
+    "id": 974,
+    "guid": "fe47a235-9691-44dd-8efc-c2e605d63c3c",
+    "tokenType": "defi",
+    "tokenCategory": "derivatives"
+  },
+  {
+    "name": "Oxcert",
+    "symbol": "ZXC",
+    "id": 537,
+    "guid": "16a0606c-6c9b-4b0b-8733-e911267523ef"
+  },
+  {
+    "name": "Mysterium",
+    "symbol": "MYST",
+    "id": 411,
+    "guid": "3fd8905d-9dcd-42e1-847f-1c8c2e6a4a4a"
+  },
+  {
+    "name": "XMax",
+    "symbol": "XMX",
+    "id": 62,
+    "guid": "a1addf75-d9bd-4693-8373-ffb7ae7aed69"
+  },
+  {
+    "name": "Skrumble Network",
+    "symbol": "SKM",
+    "id": 314,
+    "guid": "c8935504-1f71-47f8-82f7-b3ddc5fb4ceb"
+  },
+  {
+    "name": "Digitex Futures",
+    "symbol": "DGTX",
+    "id": 78,
+    "guid": "58f7ce56-0e6c-4531-8afe-879c00f02b23"
+  },
+  {
+    "name": "Covesting",
+    "symbol": "COV",
+    "id": 384,
+    "guid": "daa81a33-2a7b-498d-8c2d-6330c7bd3684"
+  },
+  {
+    "name": "Restart Energy MWAT",
+    "symbol": "MWAT",
+    "id": 210,
+    "guid": "af4f20c5-e0e1-47c4-8995-30a65dc59778"
+  },
+  {
+    "name": "Remme",
+    "symbol": "REM",
+    "id": 349,
+    "guid": "1c864d17-7219-43f0-8bcc-86ed4f2e1db9"
+  },
+  {
+    "name": "JSECOIN",
+    "symbol": "JSE",
+    "id": 476,
+    "guid": "62ee89c1-4027-4b3c-8e2f-3d3edbbce9a7"
+  },
+  {
+    "name": "Game.com",
+    "symbol": "GTC",
+    "id": 315,
+    "guid": "3222fd73-9dde-46c7-8e0a-b0dd408e4398"
+  },
+  {
+    "name": "Cotrader",
+    "symbol": "COT",
+    "id": 761,
+    "guid": "1695fa31-4d91-4b04-8449-7a8450694aa7"
+  },
+  {
+    "name": "Wings",
+    "symbol": "WINGS",
+    "id": 295,
+    "guid": "6edd8d00-c2e5-48fa-8032-b829bc462d8c"
+  },
+  {
+    "name": "Howdoo",
+    "symbol": "UDOO",
+    "id": 445,
+    "guid": "9923a5ef-5183-4f44-8534-24a515f71ff6"
+  },
+  {
+    "name": "Olympus Labs",
+    "symbol": "MOT",
+    "id": 479,
+    "guid": "bde75a6c-56d9-430b-8cd0-f0fab1ab9d97"
+  },
+  {
+    "name": "Insureum Token",
+    "symbol": "ISR",
+    "id": 336,
+    "guid": "c71792cb-d440-4bcf-8668-bc7298163d6c"
+  },
+  {
+    "name": "Pluton",
+    "symbol": "PLU",
+    "id": 461,
+    "guid": "75dd9292-33e7-4dda-81a1-8d7a5906decc"
+  },
+  {
+    "name": "ODEM",
+    "symbol": "ODE",
+    "id": 109,
+    "guid": "bda32b8e-7e33-4dab-8cad-b20c7fef1401"
+  },
+  {
+    "name": "U Network",
+    "symbol": "UUU",
+    "id": 201,
+    "guid": "082ad70f-9c99-43b4-87e5-3e7d90b5f8e6"
+  },
+  {
+    "name": "Chi Gastoken",
+    "symbol": "CHI",
+    "id": 1015,
+    "guid": "e74eee81-9f33-4f49-89a6-d9ac71804801"
+  },
+  {
+    "name": "Global Social Chain",
+    "symbol": "GSC",
+    "id": 247,
+    "guid": "4f7a898d-0d1d-4c88-8444-533c88cbd6fd"
+  },
+  {
+    "name": "TRAXIA",
+    "symbol": "TMT",
+    "id": 663,
+    "guid": "2a396676-b370-482d-8c92-0ba8299b64fb"
+  },
+  {
+    "name": "CEEK VR",
+    "symbol": "CEEK",
+    "id": 299,
+    "guid": "4e675fd4-9d06-4cb0-83b6-e8fdf0e8ce22"
+  },
+  {
+    "name": "ProChain",
+    "symbol": "PRA",
+    "id": 271,
+    "guid": "e59907c8-cd2b-4bda-8875-8e0ed2ccb828"
+  },
+  {
+    "name": "Couchain",
+    "symbol": "COU",
+    "id": 586,
+    "guid": "dfca4eec-bceb-4f2b-82e4-3ade87ece8f4"
+  },
+  {
+    "name": "Internet Node Token",
+    "symbol": "INT",
+    "id": 396,
+    "guid": "159ce98f-3cea-4cb6-8534-02fa073fa92b"
+  },
+  {
+    "name": "1World",
+    "symbol": "1WO",
+    "id": 455,
+    "guid": "207adbab-4d48-4b2a-8816-b2f5c2a1a4ec"
+  },
+  {
+    "name": "Odyssey",
+    "symbol": "OCN",
+    "id": 213,
+    "guid": "d8bfb949-54ae-4b7e-894f-cc7234c3270b"
+  },
+  {
+    "name": "Bitscreener",
+    "symbol": "BITX",
+    "id": 435,
+    "guid": "6ec9d4dd-46e9-4558-8142-2040fbf01072"
+  },
+  {
+    "name": "Tripio",
+    "symbol": "TRIO",
+    "id": 177,
+    "guid": "cc615a7c-58dc-4ca0-86e6-662172c93309"
+  },
+  {
+    "name": "Acute Angle Cloud",
+    "symbol": "AAC",
+    "id": 481,
+    "guid": "047a713d-417f-4594-88a1-9a097aa96b7e"
+  },
+  {
+    "name": "0xBitcoin",
+    "symbol": "0XBTC",
+    "id": 718,
+    "guid": "663fb819-88c3-4cbd-8362-ae7a86e148c5"
+  },
+  {
+    "name": "Optimal Shelf Availability Token",
+    "symbol": "OSA",
+    "id": 409,
+    "guid": "149baf55-224f-41d7-8246-f3d8b5a5b0c4"
+  },
+  {
+    "name": "Spectre.ai Dividend Token",
+    "symbol": "SXDT",
+    "id": 75,
+    "guid": "41a1b56a-48a1-485d-89e0-0971b5c4a212"
+  },
+  {
+    "name": "Digix Gold Token",
+    "symbol": "DGX",
+    "id": 234,
+    "guid": "d7161f2a-b31e-423a-8e0b-92dbf0004def"
+  },
+  {
+    "name": "QunQun",
+    "symbol": "QUN",
+    "id": 252,
+    "guid": "ab5cab09-8773-4703-8135-49446c54b04b"
+  },
+  {
+    "name": "Ethouse",
+    "symbol": "HORSE",
+    "id": 463,
+    "guid": "e816e4e5-8ea7-4a55-871b-298a5b4b30fb"
+  },
+  {
+    "name": "Vezt",
+    "symbol": "VZT",
+    "id": 386,
+    "guid": "a7b69793-34be-489c-81da-b08e15274aa7"
+  },
+  {
+    "name": "EDUCare",
+    "symbol": "EKT",
+    "id": 25,
+    "guid": "c13264e9-6d1f-42ac-815d-48308d1406ca"
+  },
+  {
+    "name": "DMM: Governance",
+    "symbol": "DMG",
+    "id": 947,
+    "guid": "b81aedb5-fac0-4b56-8e32-90f05c7c16aa"
+  },
+  {
+    "name": "Aichain Token",
+    "symbol": "AIT",
+    "id": 446,
+    "guid": "1e086402-d54c-455f-88b8-90673c8601ed"
+  },
+  {
+    "name": "RightMesh",
+    "symbol": "RMESH",
+    "id": 546,
+    "guid": "477a7a53-4783-4b02-849d-a912f688d999"
+  },
+  {
+    "name": "Universa",
+    "symbol": "UTNP",
+    "id": 323,
+    "guid": "4ce41c4b-39ef-4f8c-84e5-dd7127d46ad9"
+  },
+  {
+    "name": "CPChain",
+    "symbol": "CPC",
+    "id": 71,
+    "guid": "86e3dba4-8849-45a2-8c2e-0dca911ede65"
+  },
+  {
+    "name": "BitStation",
+    "symbol": "BSTN",
+    "id": 497,
+    "guid": "f6bd2afe-ed1c-4da0-8df7-d7662c6585d5"
+  },
+  {
+    "name": "Pylon Network",
+    "symbol": "PYLNT",
+    "id": 514,
+    "guid": "2e5ccc68-14c5-48f0-818e-ae87a85573c1"
+  },
+  {
+    "name": "AMLT",
+    "symbol": "AMLT",
+    "id": 328,
+    "guid": "d8aebdc9-fc11-43a4-80e0-634eb46f3119"
+  },
+  {
+    "name": "Decentralized Machine Learning (Dml)",
+    "symbol": "DML",
+    "id": 655,
+    "guid": "33e34b8d-68d2-4eb8-8e0d-927e54298535"
+  },
+  {
+    "name": "Ultrain",
+    "symbol": "UGAS",
+    "id": 152,
+    "guid": "b152d91c-a53e-40d3-8a63-18dec0a4751b"
+  },
+  {
+    "name": "Parkgene",
+    "symbol": "GENE",
+    "id": 500,
+    "guid": "2d6aeabb-c8d3-40d1-842a-89d96d928728"
+  },
+  {
+    "name": "SkinCoin",
+    "symbol": "SKIN",
+    "id": 542,
+    "guid": "30f4719a-0ba1-4bbe-8ec9-1e2f946241ed"
+  },
+  {
+    "name": "Amon",
+    "symbol": "AMN",
+    "id": 473,
+    "guid": "d5ed4357-17ad-483a-8463-b7cd5fa9c1f1"
+  },
+  {
+    "name": "Signals Network",
+    "symbol": "SGN",
+    "id": 543,
+    "guid": "69a1ea7f-f820-4c0c-8b89-eff0bc4d74bb"
+  },
+  {
+    "name": "BABB",
+    "symbol": "BAX",
+    "id": 410,
+    "guid": "5a6ac4c1-9e46-41d6-851e-4302fe66f3e8"
+  },
+  {
+    "name": "Experty",
+    "symbol": "EXY",
+    "id": 550,
+    "guid": "45978a9a-a684-42d5-804f-37ad20a5f407"
+  },
+  {
+    "name": "ContentBox",
+    "symbol": "BOX",
+    "id": 496,
+    "guid": "9e4228f8-a74d-47dc-8d64-dac66d814a08"
+  },
+  {
+    "name": "Olive",
+    "symbol": "OLE",
+    "id": 499,
+    "guid": "7e2987b4-a878-46b6-8742-ea30da8ae4ff"
+  },
+  {
+    "name": "Enigma",
+    "symbol": "ENG",
+    "id": 81,
+    "guid": "4acc8b38-b430-41e2-8027-b7a2da47210b"
+  },
+  {
+    "name": "Origami",
+    "symbol": "ORI",
+    "id": 704,
+    "guid": "f6bd61b3-f505-47ea-8d90-1a0d0861a568"
+  },
+  {
+    "name": "NAGA",
+    "symbol": "NGC",
+    "id": 350,
+    "guid": "4bfe6a01-00f0-49fe-8f75-96ec38ceb0ca"
+  },
+  {
+    "name": "aXpire",
+    "symbol": "AXPR",
+    "id": 370,
+    "guid": "e066b860-9826-45ae-809a-2d2b4e2d90d8"
+  },
+  {
+    "name": "YEE",
+    "symbol": "YEE",
+    "id": 372,
+    "guid": "505b9563-8e49-4983-8cae-3330fe83eaac"
+  },
+  {
+    "name": "Tierion",
+    "symbol": "TNT",
+    "id": 87,
+    "guid": "d8236c2a-b2d5-4e08-8957-f12b4faeecd7"
+  },
+  {
+    "name": "Online",
+    "symbol": "OIO",
+    "id": 429,
+    "guid": "41bab60f-74f8-44cf-8dc5-5a15a449ea00"
+  },
+  {
+    "name": "Hi Mutual Society",
+    "symbol": "HMC",
+    "id": 274,
+    "guid": "1181361f-8cba-41e8-843e-d93521336e40"
+  },
+  {
+    "name": "Aventus",
+    "symbol": "AVT",
+    "id": 470,
+    "guid": "de058f65-5e14-4e91-8723-74714a4e6eb2"
+  },
+  {
+    "name": "COPYTRACK",
+    "symbol": "CPY",
+    "id": 509,
+    "guid": "8a86bb88-ae23-4ea1-8811-4e56075b8977"
+  },
+  {
+    "name": "MobileGo",
+    "symbol": "MGO",
+    "id": 377,
+    "guid": "a6bda834-760c-481f-85b7-f83d138f9438"
+  },
+  {
+    "name": "indaHash",
+    "symbol": "IDH",
+    "id": 301,
+    "guid": "e13185b0-32d7-40c1-87ce-5c9fa61f95eb"
+  },
+  {
+    "name": "LALA World",
+    "symbol": "LALA",
+    "id": 513,
+    "guid": "80c6ee9c-b240-45b4-841a-5ff5e528b2ae"
+  },
+  {
+    "name": "DCORP Utility",
+    "symbol": "DRPU",
+    "id": 512,
+    "guid": "c7ac2999-b7af-477d-840d-98648fbd57b8"
+  },
+  {
+    "name": "PolySwarm",
+    "symbol": "NCT",
+    "id": 343,
+    "guid": "88bddf8e-e70e-4cae-809a-8a821e6afd03"
+  },
+  {
+    "name": "FundRequest",
+    "symbol": "FND",
+    "id": 652,
+    "guid": "bce8c63a-2985-4bcf-8f2a-4f1bf3ea0c36"
+  },
+  {
+    "name": "SpankChain",
+    "symbol": "SPANK",
+    "id": 351,
+    "guid": "677efba7-9d5c-4e7f-89d3-f1a7193a565c"
+  },
+  {
+    "name": "DAO.Casino",
+    "symbol": "BET",
+    "id": 245,
+    "guid": "5a25c9f1-80b9-4133-819e-7f9575299893"
+  },
+  {
+    "name": "Moneytoken",
+    "symbol": "IMT",
+    "id": 402,
+    "guid": "7737d0ba-6f6d-4e15-855f-c6d3c72e0ad8"
+  },
+  {
+    "name": "Caspian",
+    "symbol": "CSP",
+    "id": 322,
+    "guid": "8f30ff80-52ea-479e-88ae-3c6fbddac6dc"
+  },
+  {
+    "name": "VINchain",
+    "symbol": "VIN",
+    "id": 353,
+    "guid": "958117d8-c9f4-42c3-862c-73b3d308e94b"
+  },
+  {
+    "name": "Cryptopay",
+    "symbol": "CPAY",
+    "id": 407,
+    "guid": "cd291e35-9043-4635-886c-41707e7bd805"
+  },
+  {
+    "name": "Zinc (Zinc)",
+    "symbol": "ZINC",
+    "id": 528,
+    "guid": "f37e8396-b96d-4b19-81eb-4a13fd5cb3d4"
+  },
+  {
+    "name": "Bitnation",
+    "symbol": "XPAT",
+    "id": 574,
+    "guid": "92adceac-7274-40c9-8727-b026673fe34e"
+  },
+  {
+    "name": "KickCoin",
+    "symbol": "KICK",
+    "id": 326,
+    "guid": "a7ec2e77-6285-4c2f-833b-9e07426d309a"
+  },
+  {
+    "name": "X8X Token",
+    "symbol": "X8X",
+    "id": 367,
+    "guid": "eb2b3707-0301-4cdb-8e83-f22db073e0f2"
+  },
+  {
+    "name": "Blackmoon",
+    "symbol": "BMC",
+    "id": 121,
+    "guid": "a8e74e09-5b8b-4370-8b3a-d35e8f9ab90b"
+  },
+  {
+    "name": "Rivetz",
+    "symbol": "RVT",
+    "id": 426,
+    "guid": "077be64d-f000-4fb6-8f16-7dd2a3ace456"
+  },
+  {
+    "name": "ClearPoll",
+    "symbol": "POLL",
+    "id": 532,
+    "guid": "a69d370c-2537-4ad6-8ec6-b0da21079a45"
+  },
+  {
+    "name": "Open Platform",
+    "symbol": "OPEN",
+    "id": 467,
+    "guid": "56055c43-8764-491f-8000-2f1906f4ecc2"
+  },
+  {
+    "name": "PlutusDeFi",
+    "symbol": "PLT",
+    "id": 977,
+    "guid": "6f716089-4051-44b8-8125-bbd6d9bbc6d3",
+    "tokenType": "defi",
+    "tokenCategory": "lending"
+  },
+  {
+    "name": "SynLev",
+    "symbol": "SYN",
+    "id": 1024,
+    "guid": "236afff3-0dc8-4dbb-8922-c3501b5fda3b",
+    "tokenType": "defi",
+    "tokenCategory": "Derivatives"
+  },
+  {
+    "name": "CoinPoker",
+    "symbol": "CHP",
+    "id": 364,
+    "guid": "95949751-8c2e-4604-8f71-5c7d7bc0afc5"
+  },
+  {
+    "name": "Cube",
+    "symbol": "AUTO",
+    "id": 227,
+    "guid": "e4369882-e6e6-4a2f-8729-b34232eff873"
+  },
+  {
+    "name": "ChatCoin",
+    "symbol": "CHAT",
+    "id": 363,
+    "guid": "b58a97d1-ac57-461f-8494-eb62c5d88602"
+  },
+  {
+    "name": "ugChain",
+    "symbol": "UGC",
+    "id": 395,
+    "guid": "38b7490a-18f4-4ba8-846f-d1d28f8c2dcc"
+  },
+  {
+    "name": "Oneledger Token",
+    "symbol": "OLT",
+    "id": 340,
+    "guid": "6ccd000f-fc17-4e2d-8029-dc8bd404c291"
+  },
+  {
+    "name": "Pantos",
+    "symbol": "PAN",
+    "id": 1026,
+    "guid": "98def3a6-6bfb-4992-8550-7a8d8cfbecea"
+  },
+  {
+    "name": "MineBee",
+    "symbol": "MB",
+    "id": 880,
+    "guid": "92795099-75aa-401a-895c-79937a690883"
+  },
+  {
+    "name": "Storiqa",
+    "symbol": "STQ",
+    "id": 526,
+    "guid": "6b173cd0-08f0-4004-8dca-365edd103565"
+  },
+  {
+    "name": "Datum",
+    "symbol": "DAT",
+    "id": 413,
+    "guid": "80f4875a-561a-49da-80ff-ad46cf74af43"
+  },
+  {
+    "name": "Bob's Repair",
+    "symbol": "BOB",
+    "id": 80,
+    "guid": "7a89f538-3492-488b-8cb8-c3b6907394ff"
+  },
+  {
+    "name": "Xaurum",
+    "symbol": "XAUR",
+    "id": 319,
+    "guid": "23ceb7e4-dc7e-45bc-85f8-bbb8ab1c7bcd"
+  },
+  {
+    "name": "Banca",
+    "symbol": "BANCA",
+    "id": 501,
+    "guid": "4800a3db-1e69-4d81-802c-86a6c64d0285"
+  },
+  {
+    "name": "Doc.Com Token",
+    "symbol": "MTC",
+    "id": 231,
+    "guid": "facbdcc1-c71b-434a-8d08-38d8962a2f66"
+  },
+  {
+    "name": "NANJCOIN",
+    "symbol": "NANJ",
+    "id": 517,
+    "guid": "b936f633-c98f-4bc3-8fc9-f84095c5153e"
+  },
+  {
+    "name": "Minereum",
+    "symbol": "MNE",
+    "id": 679,
+    "guid": "752a5b11-1e0c-4409-82a5-83b74468c606"
+  },
+  {
+    "name": "Snovian.Space",
+    "symbol": "SNOV",
+    "id": 577,
+    "guid": "ae8590ae-e061-4625-8e35-6618a96d7617"
+  },
+  {
+    "name": "Scry.info",
+    "symbol": "DDD",
+    "id": 254,
+    "guid": "c3f7df9c-4633-4f18-8586-e2cfab2782dc"
+  },
+  {
+    "name": "Dragon Coins",
+    "symbol": "DRG",
+    "id": 74,
+    "guid": "823ea2de-c4ad-4904-8cd4-cfdddbd4fbff"
+  },
+  {
+    "name": "DomRaider",
+    "symbol": "DRT",
+    "id": 487,
+    "guid": "8a0519b7-fdcf-4198-8423-3262388fba7a"
+  },
+  {
+    "name": "EXRNchain",
+    "symbol": "EXRN",
+    "id": 421,
+    "guid": "bbaace03-8635-4369-8fe3-0bcb587e2d9c"
+  },
+  {
+    "name": "BEAT",
+    "symbol": "BEAT",
+    "id": 660,
+    "guid": "ea7fa895-59e4-46a8-8157-6619fce8e1a0"
+  },
+  {
+    "name": "AI Doctor",
+    "symbol": "AIDOC",
+    "id": 359,
+    "guid": "88a263d0-4485-4d10-8c81-d5a9c5920c3c"
+  },
+  {
+    "name": "Lition",
+    "symbol": "LIT",
+    "id": 943,
+    "guid": "8bc47007-44f5-4d51-8edc-e8d9e71004da"
+  },
+  {
+    "name": "Matryx",
+    "symbol": "MTX",
+    "id": 450,
+    "guid": "e48f37c5-5ae2-4c49-85ca-fdd521f832ba"
+  },
+  {
+    "name": "Primas",
+    "symbol": "PST",
+    "id": 246,
+    "guid": "9f7913aa-e078-4ee4-8b28-ba6120796f9b"
+  },
+  {
+    "name": "Cova",
+    "symbol": "COVA",
+    "id": 419,
+    "guid": "c6bff91d-43a8-4b47-8c6e-aa8f75d1dc39"
+  },
+  {
+    "name": "Humaniq",
+    "symbol": "HMQ",
+    "id": 424,
+    "guid": "06682d5f-0b97-4011-892e-c3045ba562ca"
+  },
+  {
+    "name": "IHT Real Estate Protocol",
+    "symbol": "IHT",
+    "id": 341,
+    "guid": "acc8af84-a58a-4527-8e63-595fe3e2a958"
+  },
+  {
+    "name": "IDEX Membership",
+    "symbol": "IDXM",
+    "id": 553,
+    "guid": "205aa92f-9045-44e7-8e8b-4b114cb9de80"
+  },
+  {
+    "name": "Maincoin",
+    "symbol": "MNC",
+    "id": 534,
+    "guid": "35985cae-2daa-4b04-8443-f447b28f1f58"
+  },
+  {
+    "name": "savedroid",
+    "symbol": "SVD",
+    "id": 482,
+    "guid": "65d80529-d9bc-4680-8ebd-eecd541edafc"
+  },
+  {
+    "name": "eBitcoin",
+    "symbol": "EBTC",
+    "id": 531,
+    "guid": "53707197-bb27-465a-8c5e-d14ab61e6aa1"
+  },
+  {
+    "name": "Robotina",
+    "symbol": "ROX",
+    "id": 140,
+    "guid": "425e4aca-7239-4196-8e2b-d61b694551ab"
+  },
+  {
+    "name": "Bottos",
+    "symbol": "BTO",
+    "id": 265,
+    "guid": "236a8f79-0f5c-411b-8b7c-c6aaba4a51be"
+  },
+  {
+    "name": "ZPER",
+    "symbol": "ZPR",
+    "id": 427,
+    "guid": "09bd60a9-139e-4e8d-87a1-a1f14c9f25f7"
+  },
+  {
+    "name": "LOCIcoin",
+    "symbol": "LOCI",
+    "id": 571,
+    "guid": "754683e5-2e8f-4c5a-8c22-ae05f97cd854"
+  },
+  {
+    "name": "Ubex",
+    "symbol": "UBEX",
+    "id": 365,
+    "guid": "959072f3-6633-4f49-896f-62e6a1efa346"
+  },
+  {
+    "name": "Opus",
+    "symbol": "OPT",
+    "id": 605,
+    "guid": "7f34e786-e0a2-4166-8904-b1cce9768155"
+  },
+  {
+    "name": "BoutsPro",
+    "symbol": "BOUTS",
+    "id": 604,
+    "guid": "bb3294df-3fce-45eb-8b0e-96ce32c52790"
+  },
+  {
+    "name": "BetterBetting",
+    "symbol": "BETR",
+    "id": 588,
+    "guid": "a05fbbed-eb49-49a6-8c32-2e38120284eb"
+  },
+  {
+    "name": "Patientory",
+    "symbol": "PTOY",
+    "id": 505,
+    "guid": "8b65751e-3e07-441a-8b55-84a6d0275c43"
+  },
+  {
+    "name": "Own",
+    "symbol": "CHX",
+    "id": 310,
+    "guid": "c5b91b14-16da-49c4-8f88-247dfcf5125c"
+  },
+  {
+    "name": "Cosmo Coin",
+    "symbol": "COSM",
+    "id": 235,
+    "guid": "cf81f4e6-5791-44a9-814a-d0c1a888248b"
+  },
+  {
+    "name": "Coin Lion",
+    "symbol": "LION",
+    "id": 545,
+    "guid": "93219ed5-77fb-4dea-8f83-cbb796735043"
+  },
+  {
+    "name": "Datarius Credit",
+    "symbol": "DTRC",
+    "id": 621,
+    "guid": "bcb2f47e-b79f-4ead-8a73-b02b35eb7471"
+  },
+  {
+    "name": "Ties.DB",
+    "symbol": "TIE",
+    "id": 598,
+    "guid": "b37f3db3-d6e3-442e-8d30-f3d80dfb26e3"
+  },
+  {
+    "name": "VIBE",
+    "symbol": "VIB",
+    "id": 241,
+    "guid": "279936a2-b804-48ce-8883-5bbf1b54d92e"
+  },
+  {
+    "name": "VIBE",
+    "symbol": "VIBE",
+    "id": 202,
+    "guid": "80039987-aff1-4a61-88f1-3f1862944f09"
+  },
+  {
+    "name": "Cryptaur",
+    "symbol": "CPT",
+    "id": 443,
+    "guid": "2e1475fe-2550-447a-8cfb-2aa7b9c75ce5"
+  },
+  {
+    "name": "IGToken",
+    "symbol": "IG",
+    "id": 627,
+    "guid": "bdb27478-ba0f-496a-8e61-d822a7ccedb9"
+  },
+  {
+    "name": "Sakura Bloom",
+    "symbol": "SKB",
+    "id": 508,
+    "guid": "1f0ce21e-eb35-427e-842c-35a35cc14ce5"
+  },
+  {
+    "name": "Level Up Coin",
+    "symbol": "LUC",
+    "id": 610,
+    "guid": "a9fbcb8b-3bbf-4c4f-82a3-a72ba2a311ff"
+  },
+  {
+    "name": "ATLANT",
+    "symbol": "ATL",
+    "id": 415,
+    "guid": "e4b7d3ec-7e07-44ed-87cf-f2c53f0b31be"
+  },
+  {
+    "name": "DAEX",
+    "symbol": "DAX",
+    "id": 392,
+    "guid": "eab5632d-42c5-494b-8528-afeab63aa150"
+  },
+  {
+    "name": "Soma",
+    "symbol": "SCT",
+    "id": 841,
+    "guid": "73a2cfcd-7e75-40e0-8df5-c0b8ec3ce2a1"
+  },
+  {
+    "name": "Blockpass",
+    "symbol": "PASS",
+    "id": 521,
+    "guid": "dc0d7696-689f-480a-88d2-2e0d47d99c53"
+  },
+  {
+    "name": "On.Live",
+    "symbol": "ONL",
+    "id": 570,
+    "guid": "6e7ad8d2-3321-4900-8b86-a5008fb6325c"
+  },
+  {
+    "name": "Eden",
+    "symbol": "EDN",
+    "id": 390,
+    "guid": "93ae24cc-cfc1-4fc5-8fbe-db1cf5cf27c9"
+  },
+  {
+    "name": "HEROcoin",
+    "symbol": "PLAY",
+    "id": 504,
+    "guid": "3623b4ce-13da-4fa7-8942-5ba012b9a388"
+  },
+  {
+    "name": "Dovu",
+    "symbol": "DOV",
+    "id": 572,
+    "guid": "de1c67b2-77d6-4808-8130-dcca2b7fcd9f"
+  },
+  {
+    "name": "Elixir",
+    "symbol": "ELIX",
+    "id": 589,
+    "guid": "126e9c3a-9863-4887-811b-3c1b43053581"
+  },
+  {
+    "name": "PRASM",
+    "symbol": "PSM",
+    "id": 381,
+    "guid": "1c62303c-3812-4505-8f67-d78999f306b5"
+  },
+  {
+    "name": "PayPie",
+    "symbol": "PPP",
+    "id": 120,
+    "guid": "22a8b34f-0656-4773-8000-c543aecc9d3e"
+  },
+  {
+    "name": "MCDex",
+    "symbol": "MCB",
+    "id": 930,
+    "guid": "37e513b9-b245-4ac8-8b9f-6325969201d6",
+    "tokenType": "defi",
+    "tokenCategory": "derivatives"
+  },
+  {
+    "name": "WandX",
+    "symbol": "WAND",
+    "id": 638,
+    "guid": "b6f90e06-c288-4379-8eff-f14ea159819d"
+  },
+  {
+    "name": "Adbank",
+    "symbol": "ADB",
+    "id": 511,
+    "guid": "493ece79-4a5c-4a04-8aae-f093720a3d37"
+  },
+  {
+    "name": "Cappasity",
+    "symbol": "CAPP",
+    "id": 449,
+    "guid": "cb69a830-ba7e-49b5-8235-94eb16affec1"
+  },
+  {
+    "name": "BitClave",
+    "symbol": "CAT",
+    "id": 728,
+    "guid": "3b904c01-eedd-4a38-8496-7dd5345cc929"
+  },
+  {
+    "name": "EBcoin",
+    "symbol": "EBC",
+    "id": 454,
+    "guid": "1e30239c-89d6-4e65-86ef-3794a101fb36"
+  },
+  {
+    "name": "Neurotoken",
+    "symbol": "NTK",
+    "id": 387,
+    "guid": "0559e967-ae10-4cab-88aa-3674de1cd625"
+  },
+  {
+    "name": "eosDAC",
+    "symbol": "EOSDAC",
+    "id": 357,
+    "guid": "7ff22704-449d-40ad-84a2-4fc50b532e2f"
+  },
+  {
+    "name": "Medicalchain",
+    "symbol": "MTN",
+    "id": 373,
+    "guid": "5e83328d-9689-45f6-8f1d-c1b15e3258a4"
+  },
+  {
+    "name": "UpToken",
+    "symbol": "UP",
+    "id": 464,
+    "guid": "1c06e377-b78a-45ba-8970-a390dd80bed6"
+  },
+  {
+    "name": "HiveTerminal Token",
+    "symbol": "HVN",
+    "id": 401,
+    "guid": "c0806e5d-5e4f-4661-8265-3d96c836df34"
+  },
+  {
+    "name": "Invacio",
+    "symbol": "INV",
+    "id": 282,
+    "guid": "af685490-0779-46f4-8b8a-21b8d125e8eb"
+  },
+  {
+    "name": "Block Array",
+    "symbol": "ARY",
+    "id": 603,
+    "guid": "8cbf13f4-5859-4ff7-8186-713d6d02a420"
+  },
+  {
+    "name": "Bitdegree",
+    "symbol": "BDG",
+    "id": 607,
+    "guid": "eeb3d303-eaaa-462c-8684-45c283b5f5ce"
+  },
+  {
+    "name": "EchoLink",
+    "symbol": "EKO",
+    "id": 368,
+    "guid": "68a1b509-c4f5-4b4d-834a-83507c9a4e33"
+  },
+  {
+    "name": "Substratum",
+    "symbol": "SUB",
+    "id": 342,
+    "guid": "6a952b86-18be-4437-8325-e79da19cc51d"
+  },
+  {
+    "name": "Ip Exchange",
+    "symbol": "IPSX",
+    "id": 617,
+    "guid": "151c8abd-bead-4167-8015-149ec00d9079"
+  },
+  {
+    "name": "Bitstash",
+    "symbol": "STASH",
+    "id": 681,
+    "guid": "9e6ef4d2-b5df-42e5-866b-5f4d7474fe48"
+  },
+  {
+    "name": "ELTCOIN",
+    "symbol": "ELTCOIN",
+    "id": 629,
+    "guid": "841cc739-15c0-40ba-881a-a8ff04ad7d50"
+  },
+  {
+    "name": "Crystal Clear Token (Cct)",
+    "symbol": "CCT",
+    "id": 635,
+    "guid": "b156d145-81e0-4a1b-8b7f-d45fcbf88b6e"
+  },
+  {
+    "name": "Flixxo",
+    "symbol": "FLIXX",
+    "id": 462,
+    "guid": "671944ea-7848-48c8-8c01-54d060354759"
+  },
+  {
+    "name": "Ccore",
+    "symbol": "CCO",
+    "id": 634,
+    "guid": "c351ea56-1fad-49fe-8cd7-b6253fc18f84"
+  },
+  {
+    "name": "Authorship",
+    "symbol": "ATS",
+    "id": 625,
+    "guid": "4461bd21-fab3-4c56-8b96-104a59ba7e17"
+  },
+  {
+    "name": "Emphy",
+    "symbol": "EPY",
+    "id": 18,
+    "guid": "c4d25a0e-cd2c-4d3d-86c8-499fcd569942"
+  },
+  {
+    "name": "Ethereum Meta",
+    "symbol": "ETHM",
+    "id": 715,
+    "guid": "6f13dda0-b408-4b55-8734-14c06036c3c7"
+  },
+  {
+    "name": "Bounty0X",
+    "symbol": "BNTY",
+    "id": 431,
+    "guid": "12deec74-058e-4959-8731-ef768d809f7d"
+  },
+  {
+    "name": "Verify",
+    "symbol": "CRED",
+    "id": 466,
+    "guid": "bae387db-3e47-4e07-80f1-fe8b8822a18f"
+  },
+  {
+    "name": "MARK.SPACE",
+    "symbol": "MRK",
+    "id": 394,
+    "guid": "a3473a6a-8fce-4950-8f88-e3b0533f682b"
+  },
+  {
+    "name": "adToken",
+    "symbol": "ADT",
+    "id": 337,
+    "guid": "1c59a4c0-1f14-4013-88ad-7d150f391817"
+  },
+  {
+    "name": "Ormeus Coin",
+    "symbol": "ORME",
+    "id": 826,
+    "guid": "d25cff04-2e1b-463c-8e1a-e09049c8a86e"
+  },
+  {
+    "name": "TrueFlip",
+    "symbol": "TFL",
+    "id": 406,
+    "guid": "97e555c5-1896-4760-8654-8752ede7a6ca"
+  },
+  {
+    "name": "Ink Protocol",
+    "symbol": "XNK",
+    "id": 529,
+    "guid": "33aa3ac5-c8b0-486e-8002-9d3b3c3c8c76"
+  },
+  {
+    "name": "RealChain",
+    "symbol": "RCT",
+    "id": 576,
+    "guid": "97e52b00-8eca-4eeb-8d3b-7908fcd850fc"
+  },
+  {
+    "name": "NeuroChain",
+    "symbol": "NCC",
+    "id": 398,
+    "guid": "e8d9cbef-965d-4bcc-8d84-ff3fa93e52e4"
+  },
+  {
+    "name": "STK",
+    "symbol": "STK",
+    "id": 418,
+    "guid": "87978f68-30a5-4b2a-8a7f-baeed8887aba"
+  },
+  {
+    "name": "MyBit",
+    "symbol": "MYB",
+    "id": 615,
+    "guid": "fcd28a69-c018-4b76-8f4b-debaaa3fbae9"
+  },
+  {
+    "name": "Thrive Token",
+    "symbol": "THRT",
+    "id": 460,
+    "guid": "574acb56-ac85-46ae-8d88-30bfaf316f4f"
+  },
+  {
+    "name": "Ethereum Cash",
+    "symbol": "ECASH",
+    "id": 597,
+    "guid": "1bdf6535-8a48-4a82-83d1-e7337176822e"
+  },
+  {
+    "name": "ShipChain",
+    "symbol": "SHIP",
+    "id": 366,
+    "guid": "285574ea-bc95-41b4-8739-f40c7dd0cfd0"
+  },
+  {
+    "name": "Webcoin",
+    "symbol": "WEB",
+    "id": 122,
+    "guid": "94a16f3c-e6d5-4450-8bf2-9efd2d64c390"
+  },
+  {
+    "name": "Brickblock",
+    "symbol": "BBK",
+    "id": 630,
+    "guid": "e925fdfc-314d-473c-8d17-84519952a52e"
+  },
+  {
+    "name": "Friendz",
+    "symbol": "FDZ",
+    "id": 414,
+    "guid": "25f0799a-bdf9-43ca-8e84-d9471f58f173"
+  },
+  {
+    "name": "Trustcoin",
+    "symbol": "TRST",
+    "id": 369,
+    "guid": "858e23f0-de3e-4658-8692-50a37ec9fcf6"
+  },
+  {
+    "name": "Upfiring",
+    "symbol": "UFR",
+    "id": 452,
+    "guid": "27b11d40-28c6-4a7c-8d19-d9d1733fdf91"
+  },
+  {
+    "name": "HelloGold",
+    "symbol": "HGT",
+    "id": 599,
+    "guid": "bbe0cb9e-837f-4cb1-8357-e5bce713e38f"
+  },
+  {
+    "name": "FuzeX",
+    "symbol": "FXT",
+    "id": 438,
+    "guid": "1d95054c-4093-44e0-897e-001cf4ee6ecb"
+  },
+  {
+    "name": "AidCoin",
+    "symbol": "AID",
+    "id": 356,
+    "guid": "1bf0de77-d60f-47b2-8f12-33ea04f882bc"
+  },
+  {
+    "name": "FintruX Network",
+    "symbol": "FTX",
+    "id": 385,
+    "guid": "7b20506f-5676-40d3-8b53-8550a53db98f"
+  },
+  {
+    "name": "Leadcoin",
+    "symbol": "LDC",
+    "id": 585,
+    "guid": "19c63333-3296-4474-8f8a-379c1d8b3ca0"
+  },
+  {
+    "name": "StableUSD",
+    "symbol": "USDS",
+    "id": 281,
+    "guid": "2e460863-8d56-4e1e-8f78-d2a0c39d3de4"
+  },
+  {
+    "name": "Etherparty ",
+    "symbol": "FUEL",
+    "id": 277,
+    "guid": "fa3e76ee-3786-47b5-8fb6-3b93fabc2feb"
+  },
+  {
+    "name": "Blocktix",
+    "symbol": "TIX",
+    "id": 622,
+    "guid": "812ddf0b-fae6-415c-8c2b-131e9df32dd1"
+  },
+  {
+    "name": "FlypMe",
+    "symbol": "FYP",
+    "id": 520,
+    "guid": "601bceb6-85a0-4d90-8774-76a38a0203dd"
+  },
+  {
+    "name": "Budbo",
+    "symbol": "BUBO",
+    "id": 743,
+    "guid": "2d45da03-4ede-41b7-8fce-3995ab65425c"
+  },
+  {
+    "name": "ClearCoin",
+    "symbol": "XCLR",
+    "id": 680,
+    "guid": "659d74aa-8c24-476d-81a3-4df0459497c0"
+  },
+  {
+    "name": "Silent Notary",
+    "symbol": "SNTR",
+    "id": 632,
+    "guid": "67e70bfc-1974-495e-8fe6-bb7c7512c22e"
+  },
+  {
+    "name": "Edgeless",
+    "symbol": "EDG",
+    "id": 345,
+    "guid": "37e7d2f4-34d0-49a6-8db7-bf21a4fc8662"
+  },
+  {
+    "name": "Delphy",
+    "symbol": "DPY",
+    "id": 292,
+    "guid": "1aef06fe-4152-41e7-8723-93a9a15c0856"
+  },
+  {
+    "name": "Maximine Coin",
+    "symbol": "MXM",
+    "id": 55,
+    "guid": "7db9f598-ad00-4e6d-839a-62776ed856c3"
+  },
+  {
+    "name": "Zeusshield",
+    "symbol": "ZSC",
+    "id": 471,
+    "guid": "b33a3b5d-9725-4623-89fa-8904327b0c28"
+  },
+  {
+    "name": "Dether",
+    "symbol": "DTH",
+    "id": 564,
+    "guid": "4a98c86a-52d9-4751-8148-7f30d8758656"
+  },
+  {
+    "name": "Sociall",
+    "symbol": "SCL",
+    "id": 643,
+    "guid": "6a866068-61c6-4f05-8880-80eca227f67d"
+  },
+  {
+    "name": "IXT",
+    "symbol": "IXT",
+    "id": 530,
+    "guid": "eeb0a1aa-a2d0-4fae-8d17-2e1885c5756d"
+  },
+  {
+    "name": "Veros",
+    "symbol": "VRS",
+    "id": 670,
+    "guid": "0dc31471-73c4-4410-8b37-9d3ec7e5c0bf"
+  },
+  {
+    "name": "Patron",
+    "symbol": "PAT",
+    "id": 684,
+    "guid": "21524777-fa9e-4101-8257-6243c7d67b11"
+  },
+  {
+    "name": "Electrify.Asia",
+    "symbol": "ELEC",
+    "id": 485,
+    "guid": "9947a82c-270a-4e1d-8111-249e72a90b82"
+  },
+  {
+    "name": "Lunch Money",
+    "symbol": "LMY",
+    "id": 931,
+    "guid": "f13815f7-5b21-417f-85eb-d21027890c39"
+  },
+  {
+    "name": "DATx",
+    "symbol": "DATX",
+    "id": 453,
+    "guid": "788d6b61-778e-45a1-88a8-6671a7ffb7fd"
+  },
+  {
+    "name": "CoinFI",
+    "symbol": "COFI",
+    "id": 451,
+    "guid": "0d92053b-222b-4481-8d95-4080631c7b9e"
+  },
+  {
+    "name": "Po.Et",
+    "symbol": "POE",
+    "id": 175,
+    "guid": "9ff1c7cc-257c-4908-89b7-5e54cccf68d4"
+  },
+  {
+    "name": "Paragon",
+    "symbol": "PRG",
+    "id": 483,
+    "guid": "3f0cc513-23a5-4545-8eb6-ba30379450b6"
+  },
+  {
+    "name": "Bigbom",
+    "symbol": "BBO",
+    "id": 561,
+    "guid": "adf5e880-32b2-4696-8478-94779f5eb513"
+  },
+  {
+    "name": "SportyCo",
+    "symbol": "SPF",
+    "id": 676,
+    "guid": "9d5eba31-106f-4067-8f1a-86eeeff6e20b"
+  },
+  {
+    "name": "Lendingblock",
+    "symbol": "LND",
+    "id": 309,
+    "guid": "8fa1bc9c-01f3-4e14-8151-629ce3dbcd64"
+  },
+  {
+    "name": "Italian Lira",
+    "symbol": "ITL",
+    "id": 668,
+    "guid": "85f4ccb1-f39e-4fc5-839c-03d8c887786d"
+  },
+  {
+    "name": "BlockMesh",
+    "symbol": "BMH",
+    "id": 587,
+    "guid": "2750db7d-7013-48e0-898f-ddb3e793ad11"
+  },
+  {
+    "name": "DAV Coin",
+    "symbol": "DAV",
+    "id": 608,
+    "guid": "bc76580e-6be7-4db0-806e-847332e83631"
+  },
+  {
+    "name": "Blocklancer",
+    "symbol": "LNC",
+    "id": 667,
+    "guid": "f7ab3d86-e19d-475c-8b13-e4bc596505ee"
+  },
+  {
+    "name": "Fortuna",
+    "symbol": "FOTA",
+    "id": 447,
+    "guid": "49737f05-ebfb-4fc0-8592-37895c81a182"
+  },
+  {
+    "name": "Playkey",
+    "symbol": "PKT",
+    "id": 549,
+    "guid": "2b70ffe9-1634-4b4b-8061-070e00f336db"
+  },
+  {
+    "name": "BlitzPredict",
+    "symbol": "XBP",
+    "id": 478,
+    "guid": "fd9c8023-3ac3-4390-8c02-c80673a8bb99"
+  },
+  {
+    "name": "Iungo",
+    "symbol": "ING",
+    "id": 593,
+    "guid": "1ce7c1b6-a6fa-4160-8d38-87ed8ee7c64b"
+  },
+  {
+    "name": "Lunyr",
+    "symbol": "LUN",
+    "id": 332,
+    "guid": "f580664e-52da-4e4c-8992-7f5370124a0f"
+  },
+  {
+    "name": "Truegame",
+    "symbol": "TGAME",
+    "id": 562,
+    "guid": "f80a2be0-8054-47d7-8358-d75aa1ae3e94"
+  },
+  {
+    "name": "Dropil",
+    "symbol": "DROP",
+    "id": 249,
+    "guid": "961ddc96-94fe-4859-8d85-a1082d2fbdb1"
+  },
+  {
+    "name": "BitRent",
+    "symbol": "RNTB",
+    "id": 628,
+    "guid": "7fbb80f5-4bfc-4b2d-8c83-a923b1bcd188"
+  },
+  {
+    "name": "Bee Token",
+    "symbol": "BEE",
+    "id": 642,
+    "guid": "44daf45f-7153-4f7b-8ac7-82efe399b4c0"
+  },
+  {
+    "name": "AdHive",
+    "symbol": "ADH",
+    "id": 554,
+    "guid": "e5536629-9140-4ab6-8aab-27009f4ab393"
+  },
+  {
+    "name": "Rentberry",
+    "symbol": "BERRY",
+    "id": 624,
+    "guid": "31c33b3c-08b9-4d1e-8b3e-eca458c220c3"
+  },
+  {
+    "name": "Sharder",
+    "symbol": "SS",
+    "id": 491,
+    "guid": "13e92268-0811-437c-8417-32c5d89be942"
+  },
+  {
+    "name": "Exmr",
+    "symbol": "EXMR",
+    "id": 592,
+    "guid": "1ea2abf0-2486-41a7-82e8-230ac96a5e44"
+  },
+  {
+    "name": "Paymon",
+    "symbol": "PMNT",
+    "id": 658,
+    "guid": "f8293b5e-1f22-49dc-8bee-65dc0d144c80"
+  },
+  {
+    "name": "MetaMorph",
+    "symbol": "METM",
+    "id": 595,
+    "guid": "e8df5d2c-3b29-4c4e-8281-f519ed65e4ad"
+  },
+  {
+    "name": "HOQU",
+    "symbol": "HQX",
+    "id": 510,
+    "guid": "f426d18e-a9d1-47aa-8889-fa6f81bada96"
+  },
+  {
+    "name": "REBL",
+    "symbol": "REBL",
+    "id": 646,
+    "guid": "6789b595-72c1-42eb-83cd-5f334d66cb91"
+  },
+  {
+    "name": "Gems",
+    "symbol": "GEM",
+    "id": 523,
+    "guid": "429d350d-c769-452f-841e-52cb0a1a95b9"
+  },
+  {
+    "name": "No Bs Crypto",
+    "symbol": "NOBS",
+    "id": 626,
+    "guid": "75defa99-4d2c-4175-81cf-fe2671ac75a1"
+  },
+  {
+    "name": "CryptoCarbon",
+    "symbol": "CCRB",
+    "id": 579,
+    "guid": "390b6ddd-eb86-4d4b-8bd4-1075ebcb3ac5"
+  },
+  {
+    "name": "CommerceBlock",
+    "symbol": "CBT",
+    "id": 182,
+    "guid": "936031b4-c2a0-45c3-81e2-421aad92cbac"
+  },
+  {
+    "name": "Elysian",
+    "symbol": "ELY",
+    "id": 320,
+    "guid": "7d9107f2-ada4-4512-89af-b0bc606d60cd"
+  },
+  {
+    "name": "Hurify",
+    "symbol": "HUR",
+    "id": 685,
+    "guid": "f142a0b4-ebae-443d-88d3-884daa11fa3c"
+  },
+  {
+    "name": "Voise",
+    "symbol": "VOISE",
+    "id": 664,
+    "guid": "8b14f60b-576d-43cb-8989-b2a600364e9f"
+  },
+  {
+    "name": "BlockMason Credit Protocol",
+    "symbol": "BCPT",
+    "id": 276,
+    "guid": "b9d3ecdf-1844-4096-8835-b0c0215dd6cd"
+  },
+  {
+    "name": "ConnectJob",
+    "symbol": "CJT",
+    "id": 690,
+    "guid": "70fa75d5-a36d-401a-842b-d2e31c1cde94"
+  },
+  {
+    "name": "TokenDesk",
+    "symbol": "TDS",
+    "id": 689,
+    "guid": "6d5ee93b-d789-44ca-82a3-289a2ae4f9f4"
+  },
+  {
+    "name": "Omnitude",
+    "symbol": "ECOM",
+    "id": 308,
+    "guid": "a5fe07a5-7502-4fe3-893c-695d8b9e46f9"
+  },
+  {
+    "name": "Niobium Coin",
+    "symbol": "NBC",
+    "id": 391,
+    "guid": "f0558815-531c-424f-8384-d84dcab204e6"
+  },
+  {
+    "name": "Faceter",
+    "symbol": "FACE",
+    "id": 519,
+    "guid": "333da6d2-ddec-4107-8034-2228158b8daa"
+  },
+  {
+    "name": "Sentinel Chain",
+    "symbol": "SENC",
+    "id": 442,
+    "guid": "968990ad-c6ba-4dc9-8081-c251434b919f"
+  },
+  {
+    "name": "Naviaddress",
+    "symbol": "NAVI",
+    "id": 645,
+    "guid": "a024bf14-d1c6-4dcf-809f-796a233acf59"
+  },
+  {
+    "name": "Decimated",
+    "symbol": "DIO",
+    "id": 666,
+    "guid": "4f9a33f9-6fbe-42de-8eb5-c9afdaf6d6ff"
+  },
+  {
+    "name": "CryptoDaily Token",
+    "symbol": "CRDT",
+    "id": 1001,
+    "guid": "0c529ad7-4c8e-4d42-87cf-11459e372a23"
+  },
+  {
+    "name": "Swarm City",
+    "symbol": "SWT",
+    "id": 486,
+    "guid": "4ae61a42-349b-4f50-8899-ad224bcb22da"
+  },
+  {
+    "name": "PAL Network",
+    "symbol": "PAL",
+    "id": 563,
+    "guid": "003900d9-1bf6-456d-82cc-b5af91cb0a17"
+  },
+  {
+    "name": "Visionx",
+    "symbol": "VNX",
+    "id": 551,
+    "guid": "59484434-1373-46cf-8c9d-b8d506608190"
+  },
+  {
+    "name": "Bethereum",
+    "symbol": "BETHER",
+    "id": 547,
+    "guid": "62ae1752-5097-45c3-8c9e-fb2fe65029e6"
+  },
+  {
+    "name": "Intelligent Trading Foundation",
+    "symbol": "ITT",
+    "id": 675,
+    "guid": "b505bf50-f7f9-4ac7-8c11-6bd4c155142e"
+  },
+  {
+    "name": "HashCoin",
+    "symbol": "HSC",
+    "id": 374,
+    "guid": "a0ba7931-6bda-4c7b-89a1-ac93ec3dd6e6"
+  },
+  {
+    "name": "FidentiaX",
+    "symbol": "FDX",
+    "id": 527,
+    "guid": "46531797-3b02-4dd5-8b06-f68c9bb2b502"
+  },
+  {
+    "name": "Zilla",
+    "symbol": "ZLA",
+    "id": 432,
+    "guid": "f199ddb0-1c57-430b-8332-761ba8fe5ea7"
+  },
+  {
+    "name": "Viuly",
+    "symbol": "VIU",
+    "id": 651,
+    "guid": "3cb9b0a9-226d-4a5c-8631-a3e365c93c58"
+  },
+  {
+    "name": "InvestFeed",
+    "symbol": "IFT",
+    "id": 683,
+    "guid": "4c769cc7-4c7b-4209-8cff-d1bf6dff5e72"
+  },
+  {
+    "name": "InvestDigital",
+    "symbol": "IDT",
+    "id": 806,
+    "guid": "9b85072d-dd91-4715-8a5c-d33df0fc0b9c"
+  },
+  {
+    "name": "Eroscoin",
+    "symbol": "ERO",
+    "id": 591,
+    "guid": "b82a1386-6586-4f5a-8c6f-adddcd8d0879"
+  },
+  {
+    "name": "StarterCoin",
+    "symbol": "STAC",
+    "id": 692,
+    "guid": "51621461-2119-46ba-8794-baf457087e2f"
+  },
+  {
+    "name": "VeriME",
+    "symbol": "VME",
+    "id": 618,
+    "guid": "e72be14f-b287-4b1f-896d-ac447c1ad574"
+  },
+  {
+    "name": "TrueDeck",
+    "symbol": "TDP",
+    "id": 602,
+    "guid": "5fce845d-aa59-4db9-8603-f7848dbf024e"
+  },
+  {
+    "name": "EtherSportz",
+    "symbol": "ESZ",
+    "id": 657,
+    "guid": "f9462488-29bc-4a23-8ba6-5e2ea5879270"
+  },
+  {
+    "name": "SophiaTX",
+    "symbol": "SPHTX",
+    "id": 433,
+    "guid": "ca68563a-9257-414c-819d-157ec7399cdd"
+  },
+  {
+    "name": "imbrex",
+    "symbol": "REX",
+    "id": 609,
+    "guid": "18cb3450-a398-4c10-8df8-e1e8615d0476"
+  },
+  {
+    "name": "Aigang",
+    "symbol": "AIX",
+    "id": 693,
+    "guid": "4f49409a-dca4-4a52-8ecb-af9dc47df849"
+  },
+  {
+    "name": "Starbase",
+    "symbol": "STAR",
+    "id": 567,
+    "guid": "d3ef2966-eaab-4672-8e3d-4732f8a5fbaa"
+  },
+  {
+    "name": "Chronologic",
+    "symbol": "DAY",
+    "id": 583,
+    "guid": "b5ec2cfb-f94f-4aab-88c3-01f63bf577ad"
+  },
+  {
+    "name": "BTC Lite",
+    "symbol": "BTCL",
+    "id": 669,
+    "guid": "24b0b195-b520-44fc-8e5a-b491b3031e23"
+  },
+  {
+    "name": "Maecenas",
+    "symbol": "ART",
+    "id": 347,
+    "guid": "2f867073-84e6-4305-8d16-ecf115050aaf"
+  },
+  {
+    "name": "Banyan Network",
+    "symbol": "BBN",
+    "id": 221,
+    "guid": "051047b2-9bdc-447c-85ec-2beb6884e40b"
+  },
+  {
+    "name": "bitJob",
+    "symbol": "STU",
+    "id": 702,
+    "guid": "3dd615af-1f7e-4f4a-8493-8707542e9b0f"
+  },
+  {
+    "name": "MicroMoney",
+    "symbol": "AMM",
+    "id": 673,
+    "guid": "fab2bad1-db02-4cc4-878b-7e8fb1f1db50"
+  },
+  {
+    "name": "Hero",
+    "symbol": "HERO",
+    "id": 507,
+    "guid": "877a21a1-f406-453a-809e-66088a4e3c3c"
+  },
+  {
+    "name": "Joint Ventures",
+    "symbol": "JOINT",
+    "id": 706,
+    "guid": "3680e64b-4eb8-4be3-8e89-c4d286aeb566"
+  },
+  {
+    "name": "EvenCoin",
+    "symbol": "EVN",
+    "id": 785,
+    "guid": "5772ca32-db4f-4d5b-8e5c-1885fc8db3d3"
+  },
+  {
+    "name": "Xovbank",
+    "symbol": "XOV",
+    "id": 705,
+    "guid": "808f708d-eb5e-4a15-8e6f-873cb1ed417b"
+  },
+  {
+    "name": "Eristica",
+    "symbol": "ERT",
+    "id": 556,
+    "guid": "92967bf6-4a60-4f35-808f-6591b8611dd7"
+  },
+  {
+    "name": "e-Chat",
+    "symbol": "ECHT",
+    "id": 636,
+    "guid": "9460bed7-5cd0-4b25-8238-990427950a9b"
+  },
+  {
+    "name": "IceChain",
+    "symbol": "ICHX",
+    "id": 710,
+    "guid": "20181217-6f51-493f-8a9e-97ba2bcdb876"
+  },
+  {
+    "name": "Autonio",
+    "symbol": "NIO",
+    "id": 538,
+    "guid": "8ab2c9e2-6594-4958-8bb2-2bcbdf6a37d4"
+  },
+  {
+    "name": "Tracto",
+    "symbol": "TRCT",
+    "id": 695,
+    "guid": "67c3ba6f-f05f-4548-88c0-2d8d34239cd4"
+  },
+  {
+    "name": "Matchpool",
+    "symbol": "GUP",
+    "id": 578,
+    "guid": "058883c6-b22b-4e36-8297-305589c3802d"
+  },
+  {
+    "name": "CDX Network",
+    "symbol": "CDX",
+    "id": 614,
+    "guid": "a9ac0ebc-c6cd-4e7f-8b3c-341793acfb04"
+  },
+  {
+    "name": "Crowd Machine",
+    "symbol": "CMCT",
+    "id": 575,
+    "guid": "e49a8e17-5cd3-4621-828d-6faceb41ff3d"
+  },
+  {
+    "name": "Freyrchain",
+    "symbol": "FREC",
+    "id": 671,
+    "guid": "6ee4d8a7-dc72-44df-8c34-6d279ea1c700"
+  },
+  {
+    "name": "WABnetwork",
+    "symbol": "WAB",
+    "id": 582,
+    "guid": "b03b93e2-d193-43fd-86d6-f0f79f970ee3"
+  },
+  {
+    "name": "Engagement Token",
+    "symbol": "ENGT",
+    "id": 700,
+    "guid": "9f9fff03-5629-4e22-86b6-3ef8b6f8b2ef"
+  },
+  {
+    "name": "Biotron",
+    "symbol": "BTRN",
+    "id": 697,
+    "guid": "bacde5d0-09cf-4beb-876f-cf11d54f9a99"
+  },
+  {
+    "name": "ArbitrageCT",
+    "symbol": "ARCT",
+    "id": 650,
+    "guid": "548a7976-e5b2-484b-82ed-ff7bfbf89d3e"
+  },
+  {
+    "name": "MyWish",
+    "symbol": "WISH",
+    "id": 637,
+    "guid": "18f91cd5-77b8-4872-8c4f-3d4670f6d734"
+  },
+  {
+    "name": "Suretly",
+    "symbol": "SUR",
+    "id": 633,
+    "guid": "2a261706-244e-4783-8c81-5d7e5408b0f1"
+  },
+  {
+    "name": "Kind Ads Token",
+    "symbol": "KIND",
+    "id": 687,
+    "guid": "0bd152e2-5fa3-4aa7-8573-bb616d6413ff"
+  },
+  {
+    "name": "HeroNode",
+    "symbol": "HER",
+    "id": 580,
+    "guid": "a127c680-a8e7-4236-862a-220886d0a522"
+  },
+  {
+    "name": "Guaranteed Ethurance Token Extra",
+    "symbol": "GET",
+    "id": 268,
+    "guid": "6b89d181-a713-4865-87d8-b71ae4f21e5e"
+  },
+  {
+    "name": "Guaranteed Ethurance Token Extra",
+    "symbol": "GETX",
+    "id": 678,
+    "guid": "f67afe3f-fc42-4d69-8810-007462c6afd4"
+  },
+  {
+    "name": "PlayGame",
+    "symbol": "PXG",
+    "id": 502,
+    "guid": "afae6bac-609e-49eb-85d1-d098063c69f9"
+  },
+  {
+    "name": "CYCLEAN",
+    "symbol": "CCL",
+    "id": 653,
+    "guid": "a971d8e1-7939-4a21-8267-6c88b8ee9af8"
+  },
+  {
+    "name": "Atonomi",
+    "symbol": "ATMI",
+    "id": 594,
+    "guid": "24284a39-34fa-41fd-84ef-137590b69a4d"
+  },
+  {
+    "name": "vSlice",
+    "symbol": "VSL",
+    "id": 662,
+    "guid": "55ccc511-781b-419c-8c67-03a13c2ce2b8"
+  },
+  {
+    "name": "Crowdholding",
+    "symbol": "YUP",
+    "id": 677,
+    "guid": "62ec42fd-45eb-4ae3-8aa3-7b0a25b5038f"
+  },
+  {
+    "name": "Decision Token",
+    "symbol": "HST",
+    "id": 714,
+    "guid": "711df2fa-387b-435e-824b-1bd3f0f26dc3"
+  },
+  {
+    "name": "Equal",
+    "symbol": "EQL",
+    "id": 423,
+    "guid": "7f8d9475-af02-4276-88db-86482f2b7800"
+  },
+  {
+    "name": "Rate3",
+    "symbol": "RTE",
+    "id": 388,
+    "guid": "bcd0d851-29ee-4eba-8c4c-60b035fc1fe4"
+  },
+  {
+    "name": "Peerguess",
+    "symbol": "GUESS",
+    "id": 560,
+    "guid": "837d0313-ad63-4e45-804b-ed6391899872"
+  },
+  {
+    "name": "Creditbit",
+    "symbol": "CRB",
+    "id": 698,
+    "guid": "37b8f268-6a9b-4021-84f8-1d312509c1fd"
+  },
+  {
+    "name": "CryCash",
+    "symbol": "CRC",
+    "id": 709,
+    "guid": "0f7ceb8e-f12b-422e-85aa-ab2409236210"
+  },
+  {
+    "name": "Payfair",
+    "symbol": "PFR",
+    "id": 703,
+    "guid": "cb59eedf-a7c8-4a24-85b0-1a20e633f2c3"
+  },
+  {
+    "name": "EnterCoin",
+    "symbol": "ENTRC",
+    "id": 777,
+    "guid": "faee2b2d-5f80-44dd-87ac-d5ce2c65d094"
+  },
+  {
+    "name": "Ontology Gas",
+    "symbol": "ONG",
+    "id": 986,
+    "guid": "faee795c-f6d1-4b09-b6c0-37f0990c6151"
+  },
+  {
+    "name": "Eligma Token",
+    "symbol": "ELI",
+    "id": 197,
+    "guid": "455565a5-1805-419e-854e-29fc8143c96a"
+  },
+  {
+    "name": "Nitro",
+    "symbol": "NOX",
+    "id": 600,
+    "guid": "abdee751-6d31-48de-8dbe-029a451be5a3"
+  },
+  {
+    "name": "EventChain",
+    "symbol": "EVC",
+    "id": 641,
+    "guid": "0f135c3d-c465-4fff-8334-218f77d1891b"
+  },
+  {
+    "name": "INO COIN",
+    "symbol": "INO",
+    "id": 805,
+    "guid": "5ae2bcdd-4572-4b4e-87d0-4810d22be08e"
+  },
+  {
+    "name": "Vetri",
+    "symbol": "VLD",
+    "id": 458,
+    "guid": "bb6a1167-b0ce-4d1a-8b03-7fb774840095"
+  },
+  {
+    "name": "XinFin Network",
+    "symbol": "XDCE",
+    "id": 228,
+    "guid": "8d904325-5f54-449f-86cf-f5b099cd5ae6"
+  },
+  {
+    "name": "SHPING",
+    "symbol": "SHPING",
+    "id": 644,
+    "guid": "3b177658-eb37-4b99-8207-238a2b54823a"
+  },
+  {
+    "name": "FundToken",
+    "symbol": "FUNDZ",
+    "id": 791,
+    "guid": "14f3c1f9-b4a8-44a8-8434-73c4c099a310"
+  },
+  {
+    "name": "Gonetwork",
+    "symbol": "GOT",
+    "id": 267,
+    "guid": "000ba64d-4616-408d-88a5-9553d709e563"
+  },
+  {
+    "name": "Bolenum",
+    "symbol": "BLN",
+    "id": 735,
+    "guid": "c8d52848-21f1-4a21-85d5-899c6ab0d0b1"
+  },
+  {
+    "name": "Fire Lotto",
+    "symbol": "FLOT",
+    "id": 661,
+    "guid": "b8deadee-cb69-49da-8eb4-a7b73339d573"
+  },
+  {
+    "name": "TE-FOOD",
+    "symbol": "TFD",
+    "id": 330,
+    "guid": "628d4e6d-a98a-4b81-8d23-d248d371e863"
+  },
+  {
+    "name": "Aeron",
+    "symbol": "ARN",
+    "id": 263,
+    "guid": "22d5d831-978c-48e6-8752-aa154961bdf6"
+  },
+  {
+    "name": "Credits",
+    "symbol": "CS",
+    "id": 763,
+    "guid": "9f86ced9-69bf-4df2-8c2b-fc694fbe2363"
+  },
+  {
+    "name": "HeartBout",
+    "symbol": "HB",
+    "id": 596,
+    "guid": "3dc5f3d5-b364-421f-8781-e4cf85c7c826"
+  },
+  {
+    "name": "iETH",
+    "symbol": "IETH",
+    "id": 978,
+    "guid": "27a8ba1b-6367-4225-8cae-1035c31db7c7"
+  },
+  {
+    "name": "Devery",
+    "symbol": "EVE",
+    "id": 400,
+    "guid": "da219160-822b-4cb0-87b1-8f4d36897c84"
+  },
+  {
+    "name": "The Tokenized Bitcoin",
+    "symbol": "IMBTC",
+    "id": 982,
+    "guid": "d573a1d8-8fce-495e-8ca8-869a020c564c",
+    "tokenType": "defi",
+    "tokenCategory": "bitcoin on ethereum"
+  },
+  {
+    "name": "TigerCash",
+    "symbol": "TCH",
+    "id": 619,
+    "guid": "1dec526e-8349-4472-8d18-c87ce30b3db6"
+  },
+  {
+    "name": "Bitex Global XBX Coin",
+    "symbol": "XBX",
+    "id": 731,
+    "guid": "adbe0875-3ab3-4e76-8d6e-1acac99972cc"
+  },
+  {
+    "name": "TraDove B2BCoin",
+    "symbol": "BBC",
+    "id": 569,
+    "guid": "83f11bd2-574e-4093-836a-af47af20739f"
+  },
+  {
+    "name": "Bgogo Token",
+    "symbol": "BGG",
+    "id": 725,
+    "guid": "a62abfa2-fac2-468d-8736-1acc56e0285e"
+  },
+  {
+    "name": "Noku",
+    "symbol": "NOKU",
+    "id": 494,
+    "guid": "916dd03e-541d-4a6d-8010-2755c9ad8ea6"
+  },
+  {
+    "name": "ABCC Token",
+    "symbol": "AT",
+    "id": 558,
+    "guid": "716cadf4-9a27-4988-8ea5-674654bbeb61"
+  },
+  {
+    "name": "ZMINE",
+    "symbol": "ZMN",
+    "id": 525,
+    "guid": "4234badd-aea0-40f3-8a4e-cc2f6e90c10a"
+  },
+  {
+    "name": "Coni",
+    "symbol": "CONI",
+    "id": 756,
+    "guid": "d7927cc8-c7aa-45db-8668-1601eb0beaf5"
+  },
+  {
+    "name": "Trident Group",
+    "symbol": "TRDT",
+    "id": 701,
+    "guid": "107ff37c-3ced-4314-8fd3-8fba10e6afeb"
+  },
+  {
+    "name": "Usechain Token",
+    "symbol": "USE",
+    "id": 856,
+    "guid": "ff916fff-d547-4ae9-8d13-c24368eb8ad1"
+  },
+  {
+    "name": "GreenMed",
+    "symbol": "GRMD",
+    "id": 631,
+    "guid": "515d990c-ddb3-4deb-81f4-40243d5b0e20"
+  },
+  {
+    "name": "Everus",
+    "symbol": "EVR",
+    "id": 154,
+    "guid": "ae30209c-d90b-4efb-88f6-5eaa5c588dfa"
+  },
+  {
+    "name": "Raiden Network Token",
+    "symbol": "RDN",
+    "id": 155,
+    "guid": "84b60e69-c718-426f-8c04-68af6ffac9fd"
+  },
+  {
+    "name": "Maggie",
+    "symbol": "MAG",
+    "id": 480,
+    "guid": "7d29d216-4f9c-4540-8173-2005aac6fc1e"
+  },
+  {
+    "name": "LINA",
+    "symbol": "LINA",
+    "id": 106,
+    "guid": "a7ce37ef-4897-4c7e-8073-b4f52803411f"
+  },
+  {
+    "name": "Ors Group",
+    "symbol": "ORS",
+    "id": 181,
+    "guid": "bd64b6e4-9429-41ba-8f0e-49ea4d3cfa54"
+  },
+  {
+    "name": "Sense",
+    "symbol": "SENSE",
+    "id": 137,
+    "guid": "f3419e75-eb01-464d-857e-3ebd25a32ad1"
+  },
+  {
+    "name": "PieDAO BTC++",
+    "symbol": "BTC++",
+    "id": 980,
+    "guid": "c00b56f1-1c44-47e5-8082-63728a3ec704",
+    "tokenType": "defi",
+    "tokenCategory": "bitcoin on ethereum"
+  },
+  {
+    "name": "OneRoot Network",
+    "symbol": "RNT",
+    "id": 191,
+    "guid": "4bb23790-0305-4d23-82e2-fabd21c2dbeb"
+  },
+  {
+    "name": "Bolttcoin",
+    "symbol": "BOLTT",
+    "id": 736,
+    "guid": "e76ebe33-906d-428a-8e0a-30d8dd898828"
+  },
+  {
+    "name": "Fluz Fluz",
+    "symbol": "FLUZ",
+    "id": 317,
+    "guid": "de034efa-32e6-44b1-8341-5cd5c28cf173"
+  },
+  {
+    "name": "PlayChip",
+    "symbol": "PLA",
+    "id": 146,
+    "guid": "004add64-7a8b-4e45-829d-d147559cea83"
+  },
+  {
+    "name": "Game Stars",
+    "symbol": "GST",
+    "id": 792,
+    "guid": "68869500-c7aa-4b2e-8ba9-654fd0a7632b"
+  },
+  {
+    "name": "Hubii Network",
+    "symbol": "HBT",
+    "id": 226,
+    "guid": "eace500b-cc49-4435-8531-0bdc59e29ca8"
+  },
+  {
+    "name": "Esports Token",
+    "symbol": "EST",
+    "id": 780,
+    "guid": "f6cd74ea-c564-46fb-8356-8087661f5799"
+  },
+  {
+    "name": "Ecoreal Estate",
+    "symbol": "ECOREAL",
+    "id": 772,
+    "guid": "f37c0468-0c08-4c7e-8ccd-44da765dee18"
+  },
+  {
+    "name": "ModulTrade",
+    "symbol": "MTRC",
+    "id": 590,
+    "guid": "94a4f418-e6f3-4bed-8fbb-f189569caa77"
+  },
+  {
+    "name": "NaPoleonX",
+    "symbol": "NPX",
+    "id": 198,
+    "guid": "298092d8-b65c-4dc1-8967-362d1718d7dd"
+  },
+  {
+    "name": "WCOIN",
+    "symbol": "WIN",
+    "id": 64,
+    "guid": "2f846b7b-673e-47dc-836b-0b3c69fbce64"
+  },
+  {
+    "name": "Nectar Token",
+    "symbol": "NEC",
+    "id": 962,
+    "guid": "8d467afd-83bd-424f-8204-1138a18265e3",
+    "tokenType": "defi",
+    "tokenCategory": "dexes"
+  },
+  {
+    "name": "Binance GBP",
+    "symbol": "BGBP",
+    "id": 902,
+    "guid": "fe3ada85-c866-4179-875d-350203d6c73c"
+  },
+  {
+    "name": "Billionaire Token",
+    "symbol": "XBL",
+    "id": 581,
+    "guid": "2c6e1a20-102b-4d8b-8756-c974ea85fe7f"
+  },
+  {
+    "name": "Shivom",
+    "symbol": "OMX",
+    "id": 465,
+    "guid": "7efcf118-c477-4941-8f56-e5581748527b"
+  },
+  {
+    "name": "EncrypGen",
+    "symbol": "DNA",
+    "id": 484,
+    "guid": "99658bb6-ebfb-4bd9-8736-b115fb524d18"
+  },
+  {
+    "name": "Dignity",
+    "symbol": "DIG",
+    "id": 403,
+    "guid": "008c3d56-c624-451b-862b-8b505d027e7e"
+  },
+  {
+    "name": "CoinMeet",
+    "symbol": "MEET",
+    "id": 753,
+    "guid": "fb1060c0-2409-4a39-8abc-0e20406483bc"
+  },
+  {
+    "name": "CarBlock",
+    "symbol": "CAR",
+    "id": 749,
+    "guid": "b4d47971-ec3c-42eb-8b60-79f13842208d"
+  },
+  {
+    "name": "Akropolis Delphi",
+    "symbol": "ADEL",
+    "id": 1000,
+    "guid": "ee9a409a-380b-4ba0-817e-312c64b73b79",
+    "tokenType": "defi",
+    "tokenCategory": "assetmgmt"
+  },
+  {
+    "name": "Change",
+    "symbol": "CAG",
+    "id": 321,
+    "guid": "58f9bf0b-8049-423f-8ce3-ab6207a483aa"
+  },
+  {
+    "name": "Seal Network",
+    "symbol": "SEAL",
+    "id": 623,
+    "guid": "7ddf3f55-146c-4eff-83c2-35745df40403"
+  },
+  {
+    "name": "Bodhi",
+    "symbol": "BOT",
+    "id": 717,
+    "guid": "4ff2be0b-5d68-43b0-89d2-9fa49cc96d09"
+  },
+  {
+    "name": "ATMChain",
+    "symbol": "ATM",
+    "id": 533,
+    "guid": "ee7bf7b1-9f69-4988-8b01-8e589f23d82b"
+  },
+  {
+    "name": "Scroll",
+    "symbol": "SCRL",
+    "id": 835,
+    "guid": "ed6512eb-d87c-483c-853b-d19f3945940e"
+  },
+  {
+    "name": "Blockcloud",
+    "symbol": "BLOC",
+    "id": 691,
+    "guid": "d23015d7-61bb-49a1-8fdc-1fe15bb54780"
+  },
+  {
+    "name": "SalPay",
+    "symbol": "SAL",
+    "id": 834,
+    "guid": "0fb7354d-45d8-4a4e-83c5-884fb73ff2f3"
+  },
+  {
+    "name": "ShineChain",
+    "symbol": "SHE",
+    "id": 836,
+    "guid": "bc6b54d3-83ef-4042-8f65-12b8db9b3f47"
+  },
+  {
+    "name": "RRCoin",
+    "symbol": "RRC",
+    "id": 833,
+    "guid": "de928aed-796f-48fd-8ccf-2d26aeeb96b1"
+  },
+  {
+    "name": "tBTC",
+    "symbol": "TBTC",
+    "id": 992,
+    "guid": "a8461b95-85a8-463d-805a-a549cab3b09f",
+    "tokenType": "defi",
+    "tokenCategory": "other"
+  },
+  {
+    "name": "Etheriya",
+    "symbol": "RIYA",
+    "id": 555,
+    "guid": "dd2ac402-8047-419e-8859-5eb5c8563058"
+  },
+  {
+    "name": "sETH",
+    "symbol": "SETH",
+    "id": 969,
+    "guid": "660de9b9-bd4f-4658-8117-c48b93a0ca8f"
+  },
+  {
+    "name": "bitqy",
+    "symbol": "BQ",
+    "id": 568,
+    "guid": "68ce2eea-2446-416f-8b39-c321c98f4f8a"
+  },
+  {
+    "name": "QuiverX",
+    "symbol": "QRX",
+    "id": 1011,
+    "guid": "06cc662e-ce71-4eaf-8829-573ed6974a5e"
+  },
+  {
+    "name": "Dodo",
+    "symbol": "DODO",
+    "id": 993,
+    "guid": "9ace553e-64a9-4475-83cf-75fa8b1dc53d",
+    "tokenType": "defi",
+    "tokenCategory": "dexes"
+  },
+  {
+    "name": "yAxis",
+    "symbol": "YAX",
+    "id": 1023,
+    "guid": "2d10c666-c3ee-4d40-8480-1333313dbdd4",
+    "tokenType": "defi",
+    "tokenCategory": "assetmgmt"
+  },
+  {
+    "name": "StarChain",
+    "symbol": "STC",
+    "id": 844,
+    "guid": "fc6daccd-d3cf-45c6-8900-82ac8b882aca"
+  },
+  {
+    "name": "Globalvillage Ecosystem",
+    "symbol": "GVE",
+    "id": 794,
+    "guid": "0b637a99-736d-4520-8076-69966458bba3"
+  },
+  {
+    "name": "Iconomi",
+    "symbol": "ICN",
+    "id": 225,
+    "guid": "e69a7df9-949e-471a-816d-8755d45f6d8e"
+  },
+  {
+    "name": "Lien",
+    "symbol": "LIEN",
+    "id": 963,
+    "guid": "c850acdb-2d83-484a-82ab-504bd80c67fc",
+    "tokenType": "defi",
+    "tokenCategory": "derivatives"
+  },
+  {
+    "name": "Pecunio",
+    "symbol": "PCO",
+    "id": 828,
+    "guid": "1f15aa49-623e-4ff0-84a6-982e9b178585"
+  },
+  {
+    "name": "FairGame",
+    "symbol": "FAIR",
+    "id": 123,
+    "guid": "872ff616-2eac-4275-8dcd-0da849b2cf20"
+  },
+  {
+    "name": "Fabric Token",
+    "symbol": "FT",
+    "id": 640,
+    "guid": "8b9cf529-4f9e-4424-8557-0d85e397eb63"
+  },
+  {
+    "name": "DeFi Pulse Index",
+    "symbol": "DPI",
+    "id": 1005,
+    "guid": "1607a36b-eb02-4506-8a2f-ff388509b3b8",
+    "tokenType": "defi",
+    "tokenCategory": "assetmgmt"
+  },
+  {
+    "name": "CEDEX Coin",
+    "symbol": "CEDEX",
+    "id": 750,
+    "guid": "66779100-b565-4be4-8f05-f621ee5aaa29"
+  },
+  {
+    "name": "sBTC",
+    "symbol": "SBTC",
+    "id": 933,
+    "guid": "82f117d4-6736-4697-863c-f4cc817a9e1d",
+    "tokenType": "defi",
+    "tokenCategory": "bitcoin on ethereum"
+  },
+  {
+    "name": "SHOW",
+    "symbol": "SHOW",
+    "id": 837,
+    "guid": "e9ab07bd-938d-4e05-8e32-e471d21873d4"
+  },
+  {
+    "name": "Value Liquidity",
+    "symbol": "VALUE",
+    "id": 998,
+    "guid": "699fe49d-038b-4c2a-822c-42e1b0c81738",
+    "tokenType": "defi",
+    "tokenCategory": "assetmgmt"
+  },
+  {
+    "name": "B2BX",
+    "symbol": "B2B",
+    "id": 150,
+    "guid": "64bf71cf-2140-4999-84dc-bcf4e48398ef"
+  },
+  {
+    "name": "Wrapped Ether",
+    "symbol": "WETH",
+    "id": 1014,
+    "guid": "3204acae-0176-4539-8f51-bb2d6a911bed"
+  },
+  {
+    "name": "Menlo One",
+    "symbol": "MENLO",
+    "id": 138,
+    "guid": "08396a51-3785-426a-88a9-6833bf229319"
+  },
+  {
+    "name": "Inmax",
+    "symbol": "INX",
+    "id": 557,
+    "guid": "fe8e11fe-25ca-4e6f-86b9-bbd555905bbd"
+  },
+  {
+    "name": "Candy",
+    "symbol": "CANDY",
+    "id": 746,
+    "guid": "f2eb73e3-ec1f-45fd-8246-db9c47938b12"
+  },
+  {
+    "name": "yUSD",
+    "symbol": "YVAULT-LP-YCURVE",
+    "id": 987,
+    "guid": "d7cb1577-573e-49a4-8671-0b1c6adf1bf0",
+    "tokenType": "defi",
+    "tokenCategory": "other"
+  },
+  {
+    "name": "Accelerator Network",
+    "symbol": "ACC",
+    "id": 524,
+    "guid": "17337c80-687a-4ece-84c0-a55e97b93c72"
+  },
+  {
+    "name": "DAOstack",
+    "symbol": "GEN",
+    "id": 712,
+    "guid": "0eb3bf32-b119-4449-8daf-ea9425413d34"
+  },
+  {
+    "name": "LGO Exchange",
+    "symbol": "LGO",
+    "id": 151,
+    "guid": "31fcce79-9480-4d44-8e75-67e40608629d"
+  },
+  {
+    "name": "BIZKEY",
+    "symbol": "BZKY",
+    "id": 733,
+    "guid": "ba2da7e4-340c-4837-8559-9ee62360c2a4"
+  },
+  {
+    "name": "WELL",
+    "symbol": "WELL",
+    "id": 535,
+    "guid": "fa3fa464-2b07-40a2-8f87-7b991fd634fb"
+  },
+  {
+    "name": "MobilinkToken",
+    "symbol": "MOLK",
+    "id": 819,
+    "guid": "e5ddbd32-b0a8-46f9-8797-b9dac9fda0dc"
+  },
+  {
+    "name": "HBZ coin",
+    "symbol": "HBZ",
+    "id": 573,
+    "guid": "ba2e6f89-c5ac-48e0-86ca-30696c36150c"
+  },
+  {
+    "name": "MOAC",
+    "symbol": "MOAC",
+    "id": 139,
+    "guid": "6b55617f-1015-43e5-84f4-491c1a8ca184"
+  },
+  {
+    "name": "M2O",
+    "symbol": "M2O",
+    "id": 815,
+    "guid": "88787691-a7d3-40b0-8f2b-e9c916789544"
+  },
+  {
+    "name": "Karatgold Coin",
+    "symbol": "KBC",
+    "id": 32,
+    "guid": "4084f24a-5ed4-4b9e-8489-f5536550a609"
+  },
+  {
+    "name": "BoringDAO BTC",
+    "symbol": "oBTC",
+    "id": 1031,
+    "guid": "181f7c4a-5e13-487c-88de-701a1171b872",
+    "tokenType": "defi",
+    "tokenCategory": "Bitcoin on Ethereum"
+  },
+  {
+    "name": "FirstBlood",
+    "symbol": "1ST",
+    "id": 186,
+    "guid": "9dfd7202-4e89-4f61-89c6-09d5da4aadb5"
+  },
+  {
+    "name": "MediBloc ",
+    "symbol": "MEDX",
+    "id": 134,
+    "guid": "8cbbc0e8-46bb-4d1b-8135-837c28937915"
+  },
+  {
+    "name": "Consentium",
+    "symbol": "CSM",
+    "id": 758,
+    "guid": "a7a89a65-3354-49d4-8e9d-8da546034b8e"
+  },
+  {
+    "name": "Eximchain",
+    "symbol": "EXC",
+    "id": 787,
+    "guid": "207f0276-ab1a-4fde-8526-2d68452f1712"
+  },
+  {
+    "name": "Based Money",
+    "symbol": "BASED",
+    "id": 938,
+    "guid": "232a7cbc-84b0-45bf-86d0-7b264668188e"
+  },
+  {
+    "name": "Consensus",
+    "symbol": "SEN",
+    "id": 757,
+    "guid": "42cb241f-f1ab-4843-84d9-c70275c06140"
+  },
+  {
+    "name": "Compound Ether",
+    "symbol": "CETH",
+    "id": 924,
+    "guid": "d643530c-f5c3-4599-8a3c-05ac52bc93df"
+  },
+  {
+    "name": "COMSA [ETH]",
+    "symbol": "CMS",
+    "id": 755,
+    "guid": "2e648ea9-06dc-4b35-881a-dda13bf29a55"
+  },
+  {
+    "name": "pTokens BTC",
+    "symbol": "PBTC",
+    "id": 981,
+    "guid": "48e87911-44df-4118-84a1-3698d7e685a2",
+    "tokenType": "defi",
+    "tokenCategory": "bitcoin on ethereum"
+  },
+  {
+    "name": "CapdaxToken",
+    "symbol": "XCD",
+    "id": 747,
+    "guid": "f3ddd19a-1b7e-4f27-8219-4dfb51b3a59e"
+  },
+  {
+    "name": "DACC",
+    "symbol": "DACC",
+    "id": 766,
+    "guid": "2f788676-3480-4a64-8b7b-72461791ae13"
+  },
+  {
+    "name": "EnergiToken",
+    "symbol": "ETK",
+    "id": 540,
+    "guid": "0ff58b76-9a43-4932-8140-3246e1b2353e"
+  },
+  {
+    "name": "DefiDollar",
+    "symbol": "DUSD",
+    "id": 1010,
+    "guid": "9cb091f2-b440-4362-8944-a58fcc969225",
+    "tokenType": "defi",
+    "tokenCategory": "Other"
+  },
+  {
+    "name": "Coinvest",
+    "symbol": "COIN",
+    "id": 713,
+    "guid": "638572f2-6dda-4a32-8650-2feaee82a975"
+  },
+  {
+    "name": "EduCoin",
+    "symbol": "EDU",
+    "id": 773,
+    "guid": "3e66f864-3aaa-49c7-88a9-098a1e65b5bd"
+  },
+  {
+    "name": "Dimension Chain",
+    "symbol": "EONC",
+    "id": 875,
+    "guid": "caaaeed2-3c7c-49aa-8590-41023191f4c0"
+  },
+  {
+    "name": "DXDao",
+    "symbol": "DXD",
+    "id": 970,
+    "guid": "35942f9c-e3f2-4e2c-8e10-ac04d107f1d5",
+    "tokenType": "defi",
+    "tokenCategory": "other"
+  },
+  {
+    "name": "Gold Bits Coin",
+    "symbol": "GBC",
+    "id": 795,
+    "guid": "5c8d4be1-ba2d-4adf-810a-5144806b15ab"
+  },
+  {
+    "name": "LuaSwap",
+    "symbol": "LUA",
+    "id": 1008,
+    "guid": "8aa6d339-8173-494f-8f74-e388045029ab",
+    "tokenType": "defi",
+    "tokenCategory": "dexes"
+  },
+  {
+    "name": "Content And Ad Network",
+    "symbol": "CAN",
+    "id": 759,
+    "guid": "0cde2b47-611c-4e67-8081-5f26b7eabded"
+  },
+  {
+    "name": "Exchange Union",
+    "symbol": "XUC",
+    "id": 786,
+    "guid": "e855e417-442a-40cf-869c-656a394474cf"
+  },
+  {
+    "name": "NPER",
+    "symbol": "NPER",
+    "id": 612,
+    "guid": "a09134c5-e7b3-44f0-8c0b-0c17ba961916"
+  },
+  {
+    "name": "Tether Gold",
+    "symbol": "XAUT",
+    "id": 1019,
+    "guid": "85b2f9bb-7cf0-4c10-852a-b7b5cfa0b72e"
+  },
+  {
+    "name": "ARBITRAGE",
+    "symbol": "ARB",
+    "id": 699,
+    "guid": "0d31be08-b4b6-4e19-8f6d-abf7708ca2fc"
+  },
+  {
+    "name": "Compound USDC",
+    "symbol": "CUSDC",
+    "id": 923,
+    "guid": "90c9f273-1dd2-42ec-8d4e-445bc2ddd458"
+  },
+  {
+    "name": "Mindexcoin",
+    "symbol": "MIC",
+    "id": 331,
+    "guid": "739577c3-92c9-4598-87be-27d14cc7d751"
+  },
+  {
+    "name": "Spectrum",
+    "symbol": "SPT",
+    "id": 412,
+    "guid": "cc90ed0e-cd48-4900-8708-d1a1376bac19"
+  },
+  {
+    "name": "Debitum",
+    "symbol": "DEB",
+    "id": 518,
+    "guid": "fa18ac82-3b43-4ca2-8008-586534ca577f"
+  },
+  {
+    "name": "Blockport",
+    "symbol": "BPT",
+    "id": 548,
+    "guid": "47da8634-8d78-452c-82c6-da89ef101ff6"
+  },
+  {
+    "name": "SnipCoin",
+    "symbol": "SNIP",
+    "id": 839,
+    "guid": "e63c4d9f-5e6f-4bae-8a7d-642855011106"
+  },
+  {
+    "name": "EurocoinToken",
+    "symbol": "ECTE",
+    "id": 552,
+    "guid": "4d5c29b9-861e-4649-8f05-203e006d3d46"
+  },
+  {
+    "name": "WeToken",
+    "symbol": "WT",
+    "id": 861,
+    "guid": "61045a31-b026-47bf-8003-f24338f61f4a"
+  },
+  {
+    "name": "Etheroll",
+    "symbol": "DICE",
+    "id": 311,
+    "guid": "95283ce2-709c-4300-827e-aa2c22163b3d"
+  },
+  {
+    "name": "PHI Token",
+    "symbol": "PHI",
+    "id": 584,
+    "guid": "5c5ecdd0-fc4b-4d0a-8770-2d8f438e33e4"
+  },
+  {
+    "name": "Ubique Chain Of Things",
+    "symbol": "UCT",
+    "id": 855,
+    "guid": "e583a1ea-d7f1-41fa-8c3b-856aaf6cf030"
+  },
+  {
+    "name": "DADI",
+    "symbol": "DADI",
+    "id": 259,
+    "guid": "0a45c4dc-a036-456a-886e-24f49f5ad4fa"
+  },
+  {
+    "name": "Adelphoi ",
+    "symbol": "ADL",
+    "id": 639,
+    "guid": "47921c51-f5be-4af5-85d8-6ea43113585d"
+  },
+  {
+    "name": "Earth Token",
+    "symbol": "EARTH",
+    "id": 659,
+    "guid": "2baaf667-a5a1-4b04-824f-43e83b6c138f"
+  },
+  {
+    "name": "Polybius Token",
+    "symbol": "PLBT",
+    "id": 296,
+    "guid": "c2779b87-6d04-4fc4-82e6-25418191d95b"
+  },
+  {
+    "name": "TokenCard",
+    "symbol": "TKN",
+    "id": 156,
+    "guid": "1e7b3f81-c2df-4a10-8c8c-8c6eb0c4f637",
+    "tokenType": "defi",
+    "tokenCategory": "payments"
+  },
+  {
+    "name": "Engine",
+    "symbol": "EGCC",
+    "id": 776,
+    "guid": "146a49ef-06ed-475e-8f5d-a9de7b39957a"
+  },
+  {
+    "name": "Bodhi [ETH]",
+    "symbol": "BOE",
+    "id": 544,
+    "guid": "4b70794c-d5d2-4443-8e82-dd46224ed472"
+  },
+  {
+    "name": "DeFi Dollar DAO",
+    "symbol": "DFD",
+    "id": 1009,
+    "guid": "9501fdf9-7c83-4790-8284-279c7df407b8",
+    "tokenType": "defi",
+    "tokenCategory": "Other"
+  },
+  {
+    "name": "Countinghouse",
+    "symbol": "CHT",
+    "id": 762,
+    "guid": "2cd58929-0c8a-4dae-8b9f-604f4c874068"
+  },
+  {
+    "name": "Gastoken",
+    "symbol": "GST2",
+    "id": 1016,
+    "guid": "5cfbbe50-24d2-4f5b-8b78-a43172ae4fea"
+  },
+  {
+    "name": "FABRK",
+    "symbol": "FAB",
+    "id": 876,
+    "guid": "4b624260-e22a-4779-87f5-aa5829f92b3d"
+  },
+  {
+    "name": "Compound DAI",
+    "symbol": "CDAI",
+    "id": 922,
+    "guid": "dc8c2c43-4a99-4dbe-8ba7-71e9134727dd"
+  },
+  {
+    "name": "Lendroid Support Token",
+    "symbol": "LST",
+    "id": 812,
+    "guid": "1d34cc87-e97d-41f5-82aa-9a848f29ab8a"
+  },
+  {
+    "name": "sDEFI",
+    "symbol": "SDEFI",
+    "id": 946,
+    "guid": "bfc84a9f-4948-4b8a-8287-00a1184f11f4"
+  },
+  {
+    "name": "APIS",
+    "symbol": "APIS",
+    "id": 284,
+    "guid": "2b48edcf-68ba-4677-86ca-620986c4ef86"
+  },
+  {
+    "name": "StockChain",
+    "symbol": "SCC",
+    "id": 694,
+    "guid": "0e0d72df-7252-431d-87c7-75f7d6ede9ed"
+  },
+  {
+    "name": "Nexium",
+    "symbol": "NXC",
+    "id": 665,
+    "guid": "06c28146-86d9-47ec-87fe-17536818851d"
+  },
+  {
+    "name": "BlockCDN",
+    "symbol": "BCDN",
+    "id": 734,
+    "guid": "209a18ca-3d89-445f-8651-6fe627461d0c"
+  },
+  {
+    "name": "ALAX",
+    "symbol": "ALX",
+    "id": 672,
+    "guid": "7352ce2f-e419-468c-833c-82a86ea68ec3"
+  },
+  {
+    "name": "Index Cooperative",
+    "symbol": "INDEX",
+    "id": 1007,
+    "guid": "eaa83dec-c8f0-487b-8426-d88bf42235c1",
+    "tokenType": "defi",
+    "tokenCategory": "assetmgmt"
+  },
+  {
+    "name": "Animation Vision Cash",
+    "symbol": "AVH",
+    "id": 721,
+    "guid": "47d5eda2-9bc1-4b2f-8d22-e20b773f5ab8"
+  },
+  {
+    "name": "DigiFinexToken",
+    "symbol": "DFT",
+    "id": 686,
+    "guid": "65231d27-e737-476f-8e34-e5f36375af96"
+  },
+  {
+    "name": "Social Lending Token",
+    "symbol": "SLT",
+    "id": 711,
+    "guid": "ff3aec93-00aa-4140-81bb-41094986607d"
+  },
+  {
+    "name": "Buggyra Coin Zero",
+    "symbol": "BCZERO",
+    "id": 745,
+    "guid": "3cc8118e-5b0e-4aef-8e79-e0b0b907f232"
+  },
+  {
+    "name": "GOLD Reward Token",
+    "symbol": "GRX",
+    "id": 796,
+    "guid": "ff47236f-e7b0-412e-87d9-a79a78a7729c"
+  },
+  {
+    "name": "BioCoin",
+    "symbol": "BIO",
+    "id": 611,
+    "guid": "1ab49e8f-e5e6-407b-8f0d-288c5fdd64dd"
+  },
+  {
+    "name": "1irstcoin",
+    "symbol": "FST",
+    "id": 879,
+    "guid": "3a0d7f18-e100-4256-8060-3eec173dc1f5"
+  },
+  {
+    "name": "TopChain",
+    "symbol": "TOPC",
+    "id": 849,
+    "guid": "aaccb1e4-87f3-4a89-80fd-41e452e9399c"
+  },
+  {
+    "name": "CRYPTO20",
+    "symbol": "C20",
+    "id": 118,
+    "guid": "c2b3835e-8c18-4d06-87ab-76b1a3199e09"
+  },
+  {
+    "name": "Aencoin",
+    "symbol": "AEN",
+    "id": 174,
+    "guid": "fd5bb6af-1e72-4819-8a0d-eda218a66111"
+  },
+  {
+    "name": "DOWCOIN",
+    "symbol": "DOW",
+    "id": 771,
+    "guid": "5a63f88e-e2c6-4f3a-8c7d-c4218706274c"
+  },
+  {
+    "name": "Content Neutrality Network",
+    "symbol": "CNN",
+    "id": 294,
+    "guid": "bd65845a-d81a-4868-8650-6aa9b39b745e"
+  },
+  {
+    "name": "Reserve Rights",
+    "symbol": "RSR",
+    "id": 939,
+    "guid": "52ad976d-5c3e-419d-8977-8260f5e74ed3"
+  },
+  {
+    "name": "YFValue",
+    "symbol": "YFV",
+    "id": 957,
+    "guid": "31d6361e-e882-40ba-87b3-92ec50b1111f",
+    "tokenType": "defi",
+    "tokenCategory": "assetmgmt"
+  },
+  {
+    "name": "Cocos-BCX",
+    "symbol": "COCOS",
+    "id": 905,
+    "guid": "a6d4a298-6d3b-4aa4-8cd5-a045764f6898"
+  },
+  {
+    "name": "Spice",
+    "symbol": "SPICE",
+    "id": 891,
+    "guid": "47e3ecbc-1c20-4bba-8843-adf99d302843"
+  },
+  {
+    "name": "GoCrypto",
+    "symbol": "GOC",
+    "id": 893,
+    "guid": "358dc2fc-0cdb-4dfd-8a62-0f7cd95e3fa3"
+  },
+  {
+    "name": "Pundi X",
+    "symbol": "NPXS",
+    "id": 43,
+    "guid": "14163720-e847-461b-8a91-ec7586ba83cf"
+  },
+  {
+    "name": "Sideshift Ai Token",
+    "symbol": "SAI",
+    "id": 894,
+    "guid": "ca442401-3e93-47fe-8275-a7d9c6ba3eb2"
+  },
+  {
+    "name": "Brave Sound Token",
+    "symbol": "BRST",
+    "id": 892,
+    "guid": "8fe5c500-c9fc-4738-8710-51bbdc3dc0f6"
+  },
+  {
+    "name": "uUSDrBTC Synthetic Token Expiring 1 October 2020",
+    "symbol": "UUSDRBTC-OCT",
+    "id": 950,
+    "guid": "60b2e57a-59bb-486a-8288-f1506c18f799"
+  },
+  {
+    "name": "Decentraland",
+    "symbol": "MANA",
+    "id": 69,
+    "guid": "f4cab4ed-8ce9-491d-84a5-9e850c078a24"
+  },
+  {
+    "name": "FLEX Coin",
+    "symbol": "FLEX",
+    "id": 896,
+    "guid": "ddd5a7f0-90dc-4d82-8793-dd57d43e75e1"
+  },
+  {
+    "name": "Kin",
+    "symbol": "KIN",
+    "id": 193,
+    "guid": "8921d29f-b00d-4dbb-84a7-ebc61e6eb11a"
+  },
+  {
+    "name": "HonestCoin",
+    "symbol": "USDH",
+    "id": 895,
+    "guid": "1c4c0d13-868b-49a5-86a1-fc198e512f26"
+  },
+  {
+    "name": "Nyan Finance",
+    "symbol": "NYAN",
+    "id": 990,
+    "guid": "d72166fb-0b00-4dfe-8737-028c7ec7b63c",
+    "tokenType": "defi",
+    "tokenCategory": "other"
+  },
+  {
+    "name": "Zipper",
+    "symbol": "ZIP",
+    "id": 285,
+    "guid": "c3764584-e109-477e-855a-aec38e94f790"
+  },
+  {
+    "name": "Yam (v2)",
+    "symbol": "YAMV2",
+    "id": 935,
+    "guid": "8aa9fc5f-d8fa-40f2-8706-f58e47d9989e"
+  },
+  {
+    "name": "Noah Coin",
+    "symbol": "NOAH",
+    "id": 195,
+    "guid": "3a25ba82-3eb8-4707-8824-a8180e2a220e"
+  },
+  {
+    "name": "LIFE",
+    "symbol": "LIFE",
+    "id": 493,
+    "guid": "d0dc4cb2-3033-49d0-878f-6ad1cb0846a5"
+  },
+  {
+    "name": "Sharpe Platform Token",
+    "symbol": "SHP",
+    "id": 707,
+    "guid": "8cf8af91-1dd6-4490-82ac-85314b26dfbe"
+  },
+  {
+    "name": "Hashgard",
+    "symbol": "GARD",
+    "id": 348,
+    "guid": "7f2291f9-dab7-4292-8217-4265a241d40a"
+  },
+  {
+    "name": "FREE Coin",
+    "symbol": "FREE",
+    "id": 127,
+    "guid": "c1eacb35-cf54-447f-80f0-2b1cb45aecd0"
+  },
+  {
+    "name": "Yam.Finance (v1)",
+    "symbol": "YAM",
+    "id": 934,
+    "guid": "d218d4db-6d78-4ea0-81d8-703da99afc4e"
+  },
+  {
+    "name": "ACD Coin",
+    "symbol": "ACD",
+    "id": 897,
+    "guid": "8cd1bf36-1200-4cff-8f24-d7a672af5469"
+  },
+  {
+    "name": "Quanta Utility Token",
+    "symbol": "QNTU",
+    "id": 333,
+    "guid": "2b978a61-e8bf-4b67-8d26-1a11e7cc4c7a"
+  },
+  {
+    "name": "iDeFi",
+    "symbol": "IDEFI",
+    "id": 983,
+    "guid": "5530725e-b14d-4e8e-8009-0145d96866bd"
+  },
+  {
+    "name": "yUSD Synthetic Token Expiring 1 October 2020",
+    "symbol": "YUSD-OCT20",
+    "id": 949,
+    "guid": "cf727b87-3573-4661-81ff-8ae9b088cde2"
+  }
+]
