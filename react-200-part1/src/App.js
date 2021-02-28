@@ -1,4 +1,5 @@
 import ImportComponent from './ImportComponent'
+import ClassPrototype from './ClassPrototype'
 
 function App() {
   // part1
@@ -8,6 +9,7 @@ function App() {
     <div className="App">
       <h1>Hello World</h1>
       <ImportComponent value='FromApp.js' />
+      <ClassPrototype />
     </div>
   );
 }
