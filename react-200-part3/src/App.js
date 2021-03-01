@@ -1,10 +1,15 @@
-
-function App() {
-  return (
-    <div className="App">
-      
-    </div>
-  );
+import React, { Component } from 'react'
+import StrAddButton from './StrAddButton'
+class App extends Component {
+  render() {
+    return (
+      <div className="App">
+        <h1>Start React 200</h1>
+        <span>{this.props.store.getState().data.str}</span>
+        <StrAddButton store={this.props.store}/>
+      </div>
+    )
+  }
 }
 
 export default App;
