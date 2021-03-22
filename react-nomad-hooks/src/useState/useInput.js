@@ -8,7 +8,7 @@ const useInput = (initialValue) => {
   return { value, onChange }
 }
 
-const First = () => {
+const useInputComponent = () => {
   const name = useInput('Arrevalo')
 
   return (
@@ -20,4 +20,4 @@ const First = () => {
   )
 }
 
-export default First
+export default useInputComponent
