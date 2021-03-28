@@ -1,6 +1,9 @@
 import React, { useState, useEffect, useRef } from 'react'
 
 const useClick = (onClick) => {
+  if (typeof onclick !== 'function') {
+    return 
+  }
   const elemnt = useRef()
   useEffect(() => {
     if (element.current) {
